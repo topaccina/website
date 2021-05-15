@@ -17,18 +17,9 @@
 				<div>
 					Stufe 3: Es ist auch m&ouml;glich DeFi Asssets zu verkaufen.&nbsp;</div>
 				<p style="text-align:justify">
-<<<<<<< Updated upstream
 
 					Wann sind wir damit fertig?&nbsp;<br />
 					Decentral Finance Exchange ist ein Open Source Community Projekt. Der Erfolg h&auml;ngt von jedem einzelnen ab. Melde dich bei unserem Team um mitzuarbeiten und die Entwicklung zu beschleunigen.&nbsp; </p>
-=======
-					<br />
-					Wann sind wir damit fertig?&nbsp; - in 2 oder 3 Wochen :-)<br />
-					Decentral Finance Exchange ist ein Open Source Community Projekt. Der Erfolg h&auml;ngt von jedem einzelnen ab. Melde dich bei unserem Team um mitzuarbeiten und die Entwicklung zu beschleunigen.&nbsp; Grüsse von Hans</p>
-
-					Wann sind wir damit fertig?&nbsp; - in 2 Wochen :-)<br />
-					Decentral Finance Exchange ist ein Open Source Community Projekt. Der Erfolg h&auml;ngt von jedem einzelnen ab. Melde dich bei unserem Team um mitzuarbeiten und die Entwicklung zu beschleunigen.&nbsp;</p>
->>>>>>> Stashed changes
 			</div>
 		</div>
 	</div>

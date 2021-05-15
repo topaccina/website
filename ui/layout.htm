@@ -34,7 +34,7 @@
         <div class="row d-flex align-items-center">
           <div class="col-lg-6 text-lg-left text-center">
             <div class="col-lg-6">
-                <a href="en/">English</a>
+              <a href="en/">English</a>
               <p></p>
               &copy; Creative Commons CC BY-SA 4.0 </a>
 
