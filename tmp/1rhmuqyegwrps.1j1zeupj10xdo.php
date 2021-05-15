@@ -15,7 +15,7 @@
 				<div>
 					&nbsp;</div>
 				<div>
-					Stufe 3: Es ist auch m&ouml;glich DeFi Asssets zu verkaufen.&nbsp; - sehr wichtig</div>
+					Stufe 3: Es ist auch m&ouml;glich DeFi Asssets zu verkaufen.&nbsp;</div>
 				<p style="text-align:justify">
 
 					Wann sind wir damit fertig?&nbsp;<br />
