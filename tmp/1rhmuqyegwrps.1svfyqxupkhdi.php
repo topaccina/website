@@ -46,11 +46,11 @@
           </div>
           <div class="col-lg-6">
             <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
-              <a href="home/">Home</a>
-              <a href="about/">About</a>
+              <a href="/home">Home</a>
+              <a href="/about">About</a>
               <a href="http://api.fiat2defi.ch/" target="_blank">API</a>
-              <a href="roadmap/">Roadmap</a>
-              <a href="legal/">Legal Notice</a>
+              <a href="/roadmap">Roadmap</a>
+              <a href="/legal">Legal Notice</a>
             </nav>
           </div>
         </div>
