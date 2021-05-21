@@ -45,8 +45,16 @@ $f3->route('GET /roadmap',
 
 $f3->route('GET /legal',
     function($f3) {
-        $f3->set('TITLE','Legal Notice');
+        $f3->set('TITLE','Legal');
         $f3->set('page','legal');
+        echo Template::instance()->render('layout.htm');
+    }
+);
+
+$f3->route('GET /privacy',
+    function($f3) {
+        $f3->set('TITLE','Privacy Policy');
+        $f3->set('page','privacy');
         echo Template::instance()->render('layout.htm');
     }
 );
@@ -58,6 +66,8 @@ $f3->route('GET /en',
         echo Template::instance()->render('layout.htm');
     }
 );
+
+
 
 
 
