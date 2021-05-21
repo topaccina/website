@@ -36,6 +36,12 @@
             <div class="col-lg-6">
               <a href="en/">English</a>
               <p></p>
+                Fiat2defi
+                <br>
+                Bahnhofstrasse 7, 6300 Zug
+                <br>
+                Schweiz
+              <p></p>
               &copy; Creative Commons CC BY-SA 4.0 </a>
 
 				<a href="https://google.com"
@@ -47,10 +53,11 @@
           <div class="col-lg-6">
             <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
               <a href="/home">Home</a>
-              <a href="/about">About</a>
+              <a href="/about">Ueber uns</a>
               <a href="http://api.fiat2defi.ch/" target="_blank">API</a>
               <a href="/roadmap">Roadmap</a>
-              <a href="/legal">Legal Notice</a>
+              <a href="/legal">Rechtliches</a>
+              <a href="/privacy">Datenschutzerklaerung</a>
             </nav>
           </div>
         </div>
