@@ -9,7 +9,6 @@ on:
     branches: [ develop ]
   pull_request:
     branches: [ develop ]
-
 - name: ssh-pipeline
   # You may pin to the exact commit or the version.
   # uses: cross-the-world/ssh-pipeline@7f022867934a210af826af99ef80d96f03a094d5
