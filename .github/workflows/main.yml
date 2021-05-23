@@ -40,13 +40,13 @@ jobs:
   uses: cross-the-world/ssh-pipeline@v1.2.0
   with:
     # ssh remote host
-    host: 
+    host: w013af91.kasserver.com
     # ssh remote port
     port: # optional, default is 22
     # ssh remote user
-    user: 
+    user: ssh-w01be28d
     # content of ssh private key. ex raw content of ~/.ssh/id_rsa
-    key: # optional
+    key: eYpddzoN5wtefN9B
     # ssh remote password
     pass: # optional
     # connection timeout to remote host
