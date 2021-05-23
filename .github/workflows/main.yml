@@ -46,9 +46,9 @@ jobs:
     # ssh remote user
     user: ssh-w01be28d
     # content of ssh private key. ex raw content of ~/.ssh/id_rsa
-    key: eYpddzoN5wtefN9B
+    key: 92197defccede8df35da7fb99fc151c3d57f11d9
     # ssh remote password
-    pass: # optional
+    pass: eYpddzoN5wtefN9B
     # connection timeout to remote host
     connect_timeout: # optional, default is 30s
     # execute commands on ssh
