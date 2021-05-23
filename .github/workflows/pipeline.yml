@@ -22,7 +22,7 @@ on:
     # ssh remote host
     host: w013af91.kasserver.com
     # ssh remote port
-    port: # optional, default is 22
+    port: 22
     # ssh remote user
     user: ssh-w01be28d
     # content of ssh private key. ex raw content of ~/.ssh/id_rsa
