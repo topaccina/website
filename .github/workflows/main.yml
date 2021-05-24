@@ -28,35 +28,8 @@ jobs:
         with: 
             host: w013af91.kasserver.com
             username: ssh-w01be28d 
-            key: AAACAQCq5xYRzhia3sUNcUxD8x9EZSyuWDQQirHHJBRxO/+qfBxAL7Su1uaTGNe/
-                  cKMJC8dEwLBzQd8515aw/chI8/pi2+aUiDpixxD2ve+gT4XCqwadfbtOaX3L9Zs8
-                  6W+hTWU8TSQCyw3Vt7CXSkFdMohykPXPX7Gxo239+aWrnkE2iP4GPlIgKUYffk3M
-                  U+KPFi7P5CkiTcosWqXuUUgEPxmw7C3S9HjUPFNoQVCevchRMYiI9jWq1abYKI1U
-                  LN66zPznkqtD/pg5YzSYrWdND4xF2oDYGFC1qhq8HePrYrUIf+cOraahiAPI32Yw
-                  zbVnrxNekxsoLn+VBgLqRoce27U3ZZXwD//8lHeZGchLvuwWrJ121YXSO8V4eTps
-                  V8YRm/MSks2ak7loJldiRpPg0NJ/jT+1VdNTH8llYYghdsVoFU/Vn6wd317eyOK1
-                  QBg7G/9aXz+zXrTYkV52VbSaxY8cmJ8c1UFh35Xv5kqqQtBHv2FhViFt6gVCMR7M
-                  ZKRbek1kbcJ8Mq2Zy/T8qTMBW7brBUNI1ki8o9UtNonMqBtJnGJtwnB+miTjFtAO
-                  obGabTtIaGM9QSCfyJvCKGQi5FNZpaHc8G0xYvPukwFvIVmsRkwEEeriVv8dBTWc
-                  r7eBYvJkWXAxoEkmh+hmV6Rn3+LLMTZshZzXWA0csL9kVCBLNQAAAQEA6AwvWyA8
-                  /0vE1TmqzI0Rvt6VSp7Po+2zxuLMnsoaQ97VzHRmjokH59N3NaYvwavaUF9A5Toz
-                  O1fE9JiSCu6cHOnWb59zIaJYfkfC0Se9HuQm9GaTNYte/ZQ2Tq5n2A04wF7c83YP
-                  9UpK5Wj+Z7b4OykHnYiitCCJAQxFkGZuTYEpuCyRqrxt5cu/gh4FKc5wYusooYje
-                  /F9Dc2gTVbZdTHPUsINY7sBBYksrXnPc/sQ9LNwJClYWfPw7hD6uyv2P5KlbD95V
-                  OUEFcdStszuYtrC78m2X06Q7zxpXuD0XUubzWMpEH6U+zcf8P6pJBXc2yiV7Do+o
-                  IGufz+8BxJVLawAAAQEAzS4GYqoM/4EDgGeiCD9TS9YuSQRp9OLM+PoKOzARx+jD
-                  8i0YU/4/R95/ObpY89bVNIl452WKXPh2mzlRlQTyo3TInsSzPVJTyoxDEGqJRGs/
-                  xVnt4Y7I6DIL6u+JTpdReqDI4coKou1ex9+GHVAyYf5P0JvMeGsO6su9Z6AXJhZ+
-                  jGNaEFl+ZugWfNZjFezCwl1kIPp5RFEmf8EN3YHr0XJlrdTYXFe2x5EkEzpK7p5p
-                  PWB9cy9dgORXsgSVrbEYD2F5tZvsFoSdI3BpTE8RJJgr/U7gxY5zch7c5SJXrbv7
-                  rngXj/KirB7h1QWplfL7PMdkQP7xVoWpqOrsoHZRIwAAAQAV3dCHn/Vi1die4tQY
-                  IN81LCcN5BwXXdkYM/5CwoJzTZWcdH1R8nAXZz6ZMCwsHw/VjkBBPUfdqQuf/ypt
-                  kNSSHFQ/9VZlyN1HZch8AgJfoeAoevt9PeFZbIjTY657vmPwJKgQzZWjzsSG26HC
-                  1ARsEHLCG7Rjykbzdc8x6wvMEpdb5nxtiXnYtKaczG+SnlajeI4E6bW8aTPNsIkc
-                  94B/tFaXF5SX3xvasorPQi27kDPiw6jZ/4veQjjmkJL52QD5ja8ux50bT6BuGMra
-                  Uvhs8MukIafCNegyJZcW1blQ3c1uy80EpR8h4Hx+sZ3xAkzRHoNDDceVmpckQmOE
-                  q8BA
-            port: 
+            key: ${{ secrets.PRIVKEY }}
+            port: 22
             script: 
                     cd Documents/GitHub/fiat2defi.ch
                     git status
