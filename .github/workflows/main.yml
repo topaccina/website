@@ -27,7 +27,7 @@ jobs:
         uses: appleboy/ssh-action@master
         with: 
             host: w013af91.kasserver.com
-            username: w013af91
+            username: ssh-w01be28d 
             key: AAACAQCq5xYRzhia3sUNcUxD8x9EZSyuWDQQirHHJBRxO/+qfBxAL7Su1uaTGNe/
                   cKMJC8dEwLBzQd8515aw/chI8/pi2+aUiDpixxD2ve+gT4XCqwadfbtOaX3L9Zs8
                   6W+hTWU8TSQCyw3Vt7CXSkFdMohykPXPX7Gxo239+aWrnkE2iP4GPlIgKUYffk3M
