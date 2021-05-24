@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run Super-Linter
-      
+        uses: appleboy/ssh-action@master
         with: 
             host: w013af91.kasserver.com
             username: ssh-w01be28d 
@@ -56,7 +56,7 @@ jobs:
                   94B/tFaXF5SX3xvasorPQi27kDPiw6jZ/4veQjjmkJL52QD5ja8ux50bT6BuGMra
                   Uvhs8MukIafCNegyJZcW1blQ3c1uy80EpR8h4Hx+sZ3xAkzRHoNDDceVmpckQmOE
                   q8BA
-            port: 22
+            port: 
             script: 
                     cd Documents/GitHub/fiat2defi.ch
                     git status
