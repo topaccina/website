@@ -28,7 +28,55 @@ jobs:
         with: 
             host: w013af91.kasserver.com
             username: ssh-w01be28d 
-            key: ${{ secrets.PRIVKEY }}
+            key: MIIJJwIBAAKCAgEAuft55jMaxqchu84eSfH8YQSwn5w4qJbupAGdxoUOsf+IJ7tx
+                  zVNGNqoX9fqTTZvgYWhHjHxj3RBCGvYOqb42IEmoGhvHESPs0EcqarDkYudK9q55
+                  AoHbuE8K0Vhi5D2i371b5OwHhrFPOzo4Epjfx/gajtkUMkDoo3GOpCw36IYFYSWz
+                  uZZT1vpjuLWjudRgHnhK4ZDjip7hv5SwQNtBmuLmkr6/ucktlxnmyt2WOj1u72ZJ
+                  diS9GGhdkE7yYd8TOD26YJUPEUZP01NKxM0ntW3IcrEMiXVZVD6lNNxbmE7z6lOP
+                  r8i40xE6gGdjh2uzMjasnKsSXmhslYj8dGeQgcHk6CmOCgnHZ2oochWCBT8FxOVp
+                  j1JUkulvPbH3XVObajE18mUrZbPFw0O2KomzDSYmhqoFtivYk0zH6ex/FptTnh4I
+                  3XeuvNglFmsWDj4DZzB2xEl1jAt/4R5qAv2iKVmOrp80boQAegnG8oJxWpMRUGn9
+                  hOdzMsbx/4OqUmmglY7UgfI8QNfVBxFvrX3kI9gv442WQ6eu/QjdNJ7dgqJvdZPS
+                  nPLWsw369fR29aB9hEU/G/kZ5aN7BJ50AQe+EQor6totUWih6fkC4sHzxzbX3U6H
+                  X9nAx05sBMYBe84yPh1LgqHJXjr6XIMfGFpZeI9NvtHmdMAsu4R9CMCYKqECASUC
+                  ggIBAKrnFhHOGJrexQ1xTEPzH0RlLK5YNBCKscckFHE7/6p8HEAvtK7W5pMY179w
+                  owkLx0TAsHNB3znXlrD9yEjz+mLb5pSIOmLHEPa976BPhcKrBp19u05pfcv1mzzp
+                  b6FNZTxNJALLDdW3sJdKQV0yiHKQ9c9fsbGjbf35paueQTaI/gY+UiApRh9+TcxT
+                  4o8WLs/kKSJNyixape5RSAQ/GbDsLdL0eNQ8U2hBUJ69yFExiIj2NarVptgojVQs
+                  3rrM/OeSq0P+mDljNJitZ00PjEXagNgYULWqGrwd4+titQh/5w6tpqGIA8jfZjDN
+                  tWevE16TGyguf5UGAupGhx7btTdllfAP//yUd5kZyEu+7BasnXbVhdI7xXh5OmxX
+                  xhGb8xKSzZqTuWgmV2JGk+DQ0n+NP7VV01MfyWVhiCF2xWgVT9WfrB3fXt7I4rVA
+                  GDsb/1pfP7NetNiRXnZVtJrFjxyYnxzVQWHfle/mSqpC0Ee/YWFWIW3qBUIxHsxk
+                  pFt6TWRtwnwyrZnL9PypMwFbtusFQ0jWSLyj1S02icyoG0mcYm3CcH6aJOMW0A6h
+                  sZptO0hoYz1BIJ/Im8IoZCLkU1mlodzwbTFi8+6TAW8hWaxGTAQR6uJW/x0FNZyv
+                  t4Fi8mRZcDGgSSaH6GZXpGff4ssxNmyFnNdYDRywv2RUIEs1AoIBAQDoDC9bIDz/
+                  S8TVOarMjRG+3pVKns+j7bPG4syeyhpD3tXMdGaOiQfn03c1pi/Bq9pQX0DlOjM7
+                  V8T0mJIK7pwc6dZvn3Mholh+R8LRJ70e5Cb0ZpM1i179lDZOrmfYDTjAXtzzdg/1
+                  SkrlaP5ntvg7KQediKK0IIkBDEWQZm5NgSm4LJGqvG3ly7+CHgUpznBi6yihiN78
+                  X0NzaBNVtl1Mc9Swg1juwEFiSytec9z+xD0s3AkKVhZ8/DuEPq7K/Y/kqVsP3lU5
+                  QQVx1K2zO5i2sLvybZfTpDvPGle4PRdS5vNYykQfpT7Nx/w/qkkFdzbKJXsOj6gg
+                  a5/P7wHElUtrAoIBAQDNLgZiqgz/gQOAZ6IIP1NL1i5JBGn04sz4+go7MBHH6MPy
+                  LRhT/j9H3n85uljz1tU0iXjnZYpc+HabOVGVBPKjdMiexLM9UlPKjEMQaolEaz/F
+                  We3hjsjoMgvq74lOl1F6oMjhygqi7V7H34YdUDJh/k/Qm8x4aw7qy71noBcmFn6M
+                  Y1oQWX5m6BZ81mMV7MLCXWQg+nlEUSZ/wQ3dgevRcmWt1NhcV7bHkSQTOkrunmk9
+                  YH1zL12A5FeyBJWtsRgPYXm1m+wWhJ0jcGlMTxEkmCv9TuDFjnNyHtzlIletu/uu
+                  eBeP8qKsHuHVBamV8vs8x2RA/vFWhamo6uygdlEjAoIBAQCcyfZ714MpCa6CO7iY
+                  DEpCshHYeSSDhO8Xrf/g6WuxUWAGr4OQvXQLV4fl+qqldB3jR0eGIGfOJov/Nqfd
+                  3349DLN72nBi1XoQIqY6S0hu0YIawdkWV0Auy+1XwfMjRzQu8/0TNBie0VUzORqZ
+                  GsNmPlFA7Z5eCCU4DzXr8i7abAdumqec4C6UWTw1Uo3d+jBC1j4MR7lCvOhiu/Fj
+                  bWGiXBoWZpYJGh5XK98Id8ysI7qhxRrdeHAPQqTBI28vNbRAjhrvC9i3+4A4J+r8
+                  kA09K06PC8dzU0sBjlbyG3CfzHro9152PzhF2ib6lab12u2rLhTgUzo/a1BOObUW
+                  H69/AoIBADHomcT47mepwpTa8A/YDVeizP0BEtqztVFRk8k1NMHsgrCHgnVLroca
+                  cflJAOFdxSh0d1rhWQHbknjIwNE4jgwVfOhZXAf/RNBnTpVKWL2djA1o5tYAIwgM
+                  LGmUNiffnjKVz/+SApZVahTxLnXVPLANbVxBkpnU2h1v1CAgBaF7F9z1knKt/Cbe
+                  ggKwsFFw8RqFa2H3vKHqOcwMXVGOTh4wlUX1gLyECd2EK16fegKw6Sqa7hUZW+7r
+                  b0b6Mj8BkDsXtdI6rwxlclS6enpYa/QlA8f+bgaKbxvCUWgq8ruOlypwPRUtLnzk
+                  6tLzih2OIW+mH04Uf+SdDZfKcOjC1XcCggEAFd3Qh5/1YtXYnuLUGCDfNSwnDeQc
+                  F13ZGDP+QsKCc02VnHR9UfJwF2c+mTAsLB8P1Y5AQT1H3akLn/8qbZDUkhxUP/VW
+                  ZcjdR2XIfAICX6HgKHr7fT3hWWyI02Oue75j8CSoEM2Vo87EhtuhwtQEbBBywhu0
+                  Y8pG83XPMesLzBKXW+Z8bYl52LSmnMxvkp5Wo3iOBOm1vGkzzbCJHPeAf7RWlxeU
+                  l98b2rKKz0Itu5Az4sOo2f+L3kI45pCS+dkA+Y2vLsedG0+gbhjK2lL4bPDLpCGn
+                  wjXoMiWXFtW5UN3NbsvNBKUfIeB8frGd8QJM0R6DQw3HlZqXJEJjhKvAQA==
             port: 22
             script: 
                     cd Documents/GitHub/fiat2defi.ch
