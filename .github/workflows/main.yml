@@ -4,7 +4,7 @@ name: Deployment Workflow
 on:
   # Triggers the workflow on push or pull request events but only for the develop branch
   push:
-    branches: [ master, develop ]
+    branches: [ develop ]
   # Allows you to run this workflow manually from the Actions tab
 
 
@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run Super-Linter
-        uses: appleboy/ssh-action@master
+        uses: appleboy/ssh-action@develop
         with: 
             host: w01be28d.kasserver.com
             username: w01be28d
