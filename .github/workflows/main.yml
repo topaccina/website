@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run Super-Linter
-        uses: appleboy/ssh-action@master
+      
         with: 
             host: w013af91.kasserver.com
             username: ssh-w01be28d 
