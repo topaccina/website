@@ -27,7 +27,7 @@ jobs:
         uses: appleboy/ssh-action@master
         with: 
             host: w013af91.kasserver.com
-            username: ssh-w01be28d 
+            username: ${{ secrets.USER }}
             key: ${{ secrets.PRIVKEY }}
             port: 22
             script:  whoami
