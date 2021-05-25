@@ -30,8 +30,8 @@ jobs:
             username: ssh-w01be28d 
             key: ${{ secrets.PRIVKEY }}
             port: 22
-            script: 
-                    git status
+            script:  whoami
+                
           
         
 
