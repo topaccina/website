@@ -26,8 +26,8 @@ jobs:
       - name: Run Super-Linter
         uses: appleboy/ssh-action@master
         with: 
-            host: w013af91.kasserver.com
-            username: ${{ secrets.USER }}
+            host: ${{ secrets.HOST }}
+            username: ssh-w01be28d 
             key: ${{ secrets.PRIVKEY }}
             port: 22
             script:  whoami
