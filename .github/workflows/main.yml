@@ -31,7 +31,6 @@ jobs:
             key: ${{ secrets.PRIVKEY }}
             port: 22
             script: 
-                    cd Documents/GitHub/fiat2defi.ch
                     git status
           
         
