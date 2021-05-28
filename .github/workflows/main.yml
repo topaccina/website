@@ -30,6 +30,7 @@ jobs:
             username: ssh-w01be28d 
             key: ${{ secrets.PRIVKEY }}
             protocol: ftps
+            #ADDED:
             port: ${{ secrets.PORT }}
             script:  whoami
                 
