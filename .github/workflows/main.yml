@@ -29,6 +29,7 @@ jobs:
             host: ${{ secrets.HOST }}
             username: ssh-w01be28d 
             key: ${{ secrets.PRIVKEY }}
+            protocol: ftps
             port: ${{ secrets.PORT }}
             script:  whoami
                 
