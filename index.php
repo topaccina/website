@@ -43,10 +43,10 @@ $f3->route('GET /roadmap',
     }
 );
 
-$f3->route('GET /legal',
+$f3->route('GET /law',
     function($f3) {
-        $f3->set('TITLE','Legal');
-        $f3->set('page','legal');
+        $f3->set('TITLE','Law');
+        $f3->set('page','law');
         echo Template::instance()->render('layout.htm');
     }
 );
