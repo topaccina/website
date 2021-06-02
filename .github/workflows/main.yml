@@ -31,8 +31,8 @@ jobs:
       - name: Execute deploy.sh
         run: |
             cd ~
-            ls -l 
-            sh ./deploy.sh
+            ls -l ./deploy.sh
+            #sh ./deploy.sh
      
                 
           
