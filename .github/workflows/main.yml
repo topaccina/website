@@ -30,8 +30,8 @@ jobs:
             script: whoami
       - name: Execute deploy.sh
         run: |
-            chmod +x ".github/deploy.sh"
-            ".github/deploy.sh"
+            chmod +x .github/deploy.sh
+            .github/deploy.sh
       
                 
           
