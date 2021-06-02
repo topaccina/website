@@ -27,17 +27,8 @@ jobs:
             key: ${{ secrets.PRIVKEY }}
             protocol: ftps
             port: ${{ secrets.PORT }}
-            script:  whoami
-      - name: Execute deploy.sh
-        run: |
-            ls 
-            cd ..
-            cd ..
-            cd ..
-            cd ..
-            pwd
-            cd /.github
-            #./deploy.sh
+            script:  pwd
+   
      
                 
           
