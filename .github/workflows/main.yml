@@ -27,7 +27,9 @@ jobs:
             key: ${{ secrets.PRIVKEY }}
             protocol: ftps
             port: ${{ secrets.PORT }}
-            script:  whoami
+            script:  pwd
+   
+     
                 
           
         
