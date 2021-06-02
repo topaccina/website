@@ -31,6 +31,7 @@ jobs:
       - name: Execute deploy.sh
         run: |
             ls 
+            pwd
             #sh ./deploy.sh
      
                 
