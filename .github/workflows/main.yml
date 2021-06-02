@@ -31,7 +31,8 @@ jobs:
       - name: Execute deploy.sh
         run: |
             ls 
-            pwd
+            cd ..
+            cd ..
             cd ..
             cd ..
             pwd
