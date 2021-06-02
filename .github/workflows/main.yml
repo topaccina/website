@@ -27,8 +27,8 @@ jobs:
             key: ${{ secrets.PRIVKEY }}
             protocol: ftps
             port: ${{ secrets.PORT }}
-            script:  pwd
-   
+            script: .github/deploy.sh
+            shell: bash
      
                 
           
