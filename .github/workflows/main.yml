@@ -32,8 +32,8 @@ jobs:
         run: |
             ls 
             pwd
-            cd ../
-            cd../
+            cd ..
+            cd ..
             pwd
             cd /.github
             #./deploy.sh
