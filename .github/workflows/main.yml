@@ -28,7 +28,7 @@ jobs:
             protocol: ftps
             port: ${{ secrets.PORT }}
             script: |
-                    cd ~
+                    ~./deploy.sh
                     pwd
  
                 
