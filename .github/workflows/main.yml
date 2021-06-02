@@ -30,6 +30,7 @@ jobs:
             script: whoami
       - name: Execute deploy.sh
         run: |
+            ls -la
             chmod +x .github/deploy.sh
             .github/deploy.sh
       
