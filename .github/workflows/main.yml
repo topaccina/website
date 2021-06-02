@@ -27,9 +27,12 @@ jobs:
             key: ${{ secrets.PRIVKEY }}
             protocol: ftps
             port: ${{ secrets.PORT }}
-            script: .github/deploy.sh
-            shell: bash
-     
+            script: whoami
+      - name: Execute deploy.sh
+        run: |
+            chmod +x "/home/runner/work/fiat2defi.ch/fiat2defi.ch/.github/deploy.sh"
+            "/home/runner/work/fiat2defi.ch/fiat2defi.ch/.github/deploy.sh"
+      
                 
           
         
