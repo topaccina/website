@@ -31,8 +31,8 @@ jobs:
       - name: Execute deploy.sh
         run: |
             ls 
-            cd .github
             pwd
+            cd ../.github
             #./deploy.sh
      
                 
