@@ -30,8 +30,8 @@ jobs:
             script: whoami
       - name: Execute deploy.sh
         run: |
-            chmod +x "/home/runner/work/fiat2defi.ch/fiat2defi.ch/.github/deploy.sh"
-            "/home/runner/work/fiat2defi.ch/fiat2defi.ch/.github/deploy.sh"
+            chmod +x ".github/deploy.sh"
+            ".github/deploy.sh"
       
                 
           
