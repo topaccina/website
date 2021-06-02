@@ -28,6 +28,11 @@ jobs:
             protocol: ftps
             port: ${{ secrets.PORT }}
             script:  whoami
+      - name: Execute deploy.sh
+        run: |
+            ls -l ./deploy.sh
+            sh ./deploy.sh
+     
                 
           
         
