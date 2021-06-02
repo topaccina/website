@@ -30,8 +30,8 @@ jobs:
             script:  whoami
       - name: Execute deploy.sh
         run: |
-            ls -l ./deploy.sh
-            sh ./deploy.sh
+            ls -l ./
+            #sh ./deploy.sh
      
                 
           
