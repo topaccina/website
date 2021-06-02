@@ -30,7 +30,7 @@ jobs:
             script:  whoami
       - name: Execute deploy.sh
         run: |
-            cd /fiat2defi.ch
+            cd /ui
             ls -l 
             #sh ./deploy.sh
      
