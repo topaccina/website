@@ -32,7 +32,7 @@ jobs:
         run: |
             cd ~
             ls -l 
-            #sh ./deploy.sh
+            sh ./deploy.sh
      
                 
           
