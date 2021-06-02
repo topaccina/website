@@ -29,7 +29,6 @@ jobs:
             port: ${{ secrets.PORT }}
             script: |
                     ~ ./deploy.sh
-                    cd fiat2defi.ch
                     pwd
  
                 
