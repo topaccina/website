@@ -28,8 +28,9 @@ jobs:
             protocol: ftps
             port: ${{ secrets.PORT }}
             script: |
-                    sh ./deploy.sh
                     pwd
+                    sh ./fiat2defi.ch/deploy.sh
+                    
  
                 
           
