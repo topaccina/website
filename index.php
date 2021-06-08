@@ -59,14 +59,59 @@ $f3->route('GET /privacy',
     }
 );
 
+
+
+////////////////////////////////////////////////////////////////////EN/////////////////////////////////////////////////////////
+
+
+
 $f3->route('GET /en',
     function($f3) {
-        $f3->set('TITLE','English');
-        $f3->set('page','en');
-        echo Template::instance()->render('layout.htm');
+        $f3->set('TITLE','Empower the DeFiChain!');
+        $f3->set('page','en/home');
+        echo Template::instance()->render('en/layout.htm');
     }
 );
 
+$f3->route('GET /en/home',
+    function($f3) {
+        $f3->set('TITLE','Home');
+        $f3->set('page','en/home');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
+
+$f3->route('GET /en/about',
+    function($f3) {
+        $f3->set('TITLE','About');
+        $f3->set('page','en/about');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
+
+$f3->route('GET /en/roadmap',
+    function($f3) {
+        $f3->set('TITLE','Roadmap');
+        $f3->set('page','en/roadmap');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
+
+$f3->route('GET /en/legal',
+    function($f3) {
+        $f3->set('TITLE','Legal');
+        $f3->set('page','en/legal');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
+
+$f3->route('GET /en/privacy',
+    function($f3) {
+        $f3->set('TITLE','Privacy Policy');
+        $f3->set('page','en/privacy');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
 
 
 
