@@ -4,14 +4,15 @@ on:
     branches:
       - master
 jobs:
-  jobOne:
+  webDeployment:
     runs-on: ubuntu-latest
     steps:
-    - name: getLatestCode    
+    - name: getLatestCode
       uses: actions/checkout@v2
-    - name: deployToFTP
+    
+    - name: syncFiles
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        ftp-server: w01be28d.kasserver.com
-        ftp-username: f013fddb
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        server: w01be28d.kasserver.com
+        username: f013fddb
+        password: ${{ secrets.FTP_PASSWORD }}
