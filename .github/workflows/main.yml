@@ -15,4 +15,4 @@ jobs:
       with:
         server: w01be28d.kasserver.com
         username: f013fddb
-        password: ${{ secrets.FTP_PASSWORD }}
+        password: ${{ secrets.ftp_PW }}
