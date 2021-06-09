@@ -25,8 +25,8 @@
 
   <body>
     <main>
-      <include href="header.htm" />
-      <include href="{{ @page.'/index.htm' }}" />
+      <?php echo $this->render('de/header.htm',NULL,get_defined_vars(),0); ?>
+      <?php echo $this->render($page.'/index.htm',NULL,get_defined_vars(),0); ?>
     </main>
 
     <footer id="footer">
@@ -47,17 +47,17 @@
 				<a href="https://google.com"
 
             <div>
-               <a href="https://explorer.defichain.io/#/DFI/mainnet/address/{{@wallet.challenge}}" target="_blank">{{@wallet.challenge}}</a> <br/>  <a href="https://explorer.defichain.io/#/DFI/mainnet/address/{{@wallet.incentive}}" target="_blank">{{@wallet.incentive}}</a>
+               <a href="https://explorer.defichain.io/#/DFI/mainnet/address/<?= ($wallet['challenge']) ?>" target="_blank"><?= ($wallet['challenge']) ?></a> <br/>  <a href="https://explorer.defichain.io/#/DFI/mainnet/address/<?= ($wallet['incentive']) ?>" target="_blank"><?= ($wallet['incentive']) ?></a>
             </div>
           </div>
           <div class="col-lg-6">
             <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
-              <p><a href="/home">Home</a></p>
-              <p><a href="/about">Ueber uns</a></p>
+              <p><a href="/">Home</a></p>
+              <p><a href="de/about">&Uuml;ber uns</a></p>
               <p><a href="http://api.fiat2defi.ch/" target="_blank">API</a></p>
-              <p><a href="/roadmap">Roadmap</a></p>
-              <p><a href="/legal">Rechtliches</a></p>
-              <p><a href="/privacy">Datenschutzerklaerung</a></p>
+              <p><a href="de/roadmap">Roadmap</a></p>
+              <p><a href="de/legal">Rechtliches</a></p>
+              <p><a href="de/privacy">Datenschutzerklaerung</a></p>
             </nav>
           </div>
         </div>

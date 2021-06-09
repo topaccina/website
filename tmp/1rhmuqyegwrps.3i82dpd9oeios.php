@@ -8,7 +8,7 @@
 			<ul>
 				<li class="active">
 					<a href="/">Home</a>
-					<a href="/en">English</a></li>
+					<a href="en/">English</a></li>
 			</ul>
 		</nav>
 		<!-- .nav-menu --></div>

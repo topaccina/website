@@ -1,1 +1,1 @@
-<?php echo $this->render('about/sections/about.htm',NULL,get_defined_vars(),0); ?>
+<?php echo $this->render('en/about/sections/about.htm',NULL,get_defined_vars(),0); ?>
