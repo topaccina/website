@@ -19,7 +19,7 @@
 				<p style="text-align:justify">
 					<br />
 					When will we be done with it?
-Decentral Finance Exchange is an open source community project. Its success depends on each individual. Join our team to contribute and accelerate the development.&nbsp;</p>
+					Decentral Finance Exchange is an open source community project. Its success depends on each individual. Join our team to contribute and accelerate the development.&nbsp;</p>
 			</div>
 		</div>
 	</div>

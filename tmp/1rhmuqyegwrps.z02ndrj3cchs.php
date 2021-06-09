@@ -146,7 +146,7 @@
 								Fiat2defi  der Ansicht ist, dass die zur Verfügung gestellten Unterlagen unvollständig sind;
 								Sie Ihren Wohn- oder Geschäftssitz in einem gefährdeten Land haben; oder
 								Die erste Zahlung, die Sie geleistet haben, aus einem gefährdeten Land oder über ein Bankkonto erfolgt ist, das Ihnen nicht gehört.
-								Hier finden Sie die Liste der gefährdeten Länder: <a href="https://bity.com/products/crypto-exchange-api/high-risk-countries" target="_blank">Hoch-Risiko Laender</a>
+								Hier finden Sie die Liste der gefährdeten Länder: <a href="https://Fiat2defi.com/products/crypto-exchange-api/high-risk-countries" target="_blank">Hoch-Risiko Laender</a>
 
 								Experte
 								Limit pro Transaktion	500.000 Schweizer Franken (CHF)
