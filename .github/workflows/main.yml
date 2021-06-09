@@ -15,4 +15,4 @@ jobs:
       with:
         server: w01be28d.kasserver.com
         username: f013fddb
-        password: xhT6FZuUmdqVyvFK
+        password: ${{ secrets.PASSWORD }}
