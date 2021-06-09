@@ -13,6 +13,6 @@ jobs:
     - name: syncFiles
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: w01be28d.kasserver.com
+        server: ${{ secrets.HOST }}
         username: ${{ secrets.USER }}
         password: ${{ secrets.PASSWORD }}
