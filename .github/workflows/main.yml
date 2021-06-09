@@ -9,7 +9,7 @@ jobs:
     steps:
     - name: getLatestCode
       uses: actions/checkout@v2
-    
+
     - name: syncFiles
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:

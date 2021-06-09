@@ -7,11 +7,11 @@
 		<div class="row content">
 			<div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
 				<p style="text-align:justify">
-					 DeFiChain Exchange ist ein Community Projekt welches das Ziel hat, unkompliziert und einfach DeFi Assets gegen EUR, CHF und USD zu verkaufen. Nach Eingang des Geldes wird das gekaufte Asset mittels Blockchain Transaktion auf die Kunden Adresse transferiert.&nbsp;Kunden kontrollieren ihre Assets nach dem Kauf selber &uuml;ber den Privatkey.</p>
+					DeFiChain Exchange is a community project that aims to sell DeFi assets against EUR, CHF and USD in an easy and uncomplicated way. After receiving the money, the purchased asset is transferred to the customer's address via blockchain transaction. Customers control their assets themselves after the purchase via the private key.</p>
 				<ul>
-					<li><i class="ri-check-double-line"></i>bearbeitung innerhalb von einem Arbeitstag</li>
-					 <li><i class="ri-check-double-line"></i>sehr einfach zu verwenden</li>
-					 <li><i class="ri-check-double-line"></i>KYC frei bis 1&#39;000 CHF oder 900 EUR pro Tag</li>
+					<li><i class="ri-check-double-line"></i>Transaction processed within 1 working day</li>
+					 <li><i class="ri-check-double-line"></i>Easy to use</li>
+					 <li><i class="ri-check-double-line"></i>No KYC until 1&#39;000 CHF or 900 EUR per day</li>
 				</ul>
 			</div>
 			<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
