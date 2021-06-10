@@ -25,7 +25,7 @@
 
   <body>
     <main>
-      <?php echo $this->render('en/header.htm',NULL,get_defined_vars(),0); ?>
+      <?php echo $this->render('highrisk/header.htm',NULL,get_defined_vars(),0); ?>
       <?php echo $this->render($page.'/index.htm',NULL,get_defined_vars(),0); ?>
     </main>
 

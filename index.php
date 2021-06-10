@@ -114,6 +114,21 @@ $f3->route('GET /en/privacy',
 );
 
 
+$f3->route('GET /en/country',
+    function($f3) {
+        $f3->set('TITLE','High Risk Countries');
+        $f3->set('page','en/country');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
+
+$f3->route('GET /de/country',
+    function($f3) {
+        $f3->set('TITLE','High Risk Countries');
+        $f3->set('page','de/country');
+        echo Template::instance()->render('de/layout.htm');
+    }
+);
 
 
 $f3->run();
