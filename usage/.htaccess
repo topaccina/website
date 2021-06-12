@@ -1,4 +1,4 @@
-AuthUserFile /www/htdocs/w01be28d/fiat2defi.ch/usage/.htpasswd
+AuthUserFile /www/htdocs/w01be28d/DFX.ch/usage/.htpasswd
 AuthGroupFile /dev/null
 AuthName 'ByPassword'
 AuthType Basic

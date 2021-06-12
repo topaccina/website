@@ -13,11 +13,11 @@
 						<h1>Datenschutzerklaerung</h1>
 							<p>Datum des Inkrafttretens: May 19th, 2021</p>
 							<p>
-								Fiat2defi („wir“, „uns“ oder „unser“) betreibt die Website fiat2defi.ch (den „Service“).
+								DFX („wir“, „uns“ oder „unser“) betreibt die Website DFX.ch (den „Service“).
 
 								Diese Seite informiert Sie über unsere Richtlinien zur Erhebung, Nutzung und Offenlegung personenbezogener Daten, wenn Sie unseren Service nutzen, sowie die Wahlmöglichkeiten, die Sie in Bezug auf diese Daten haben.
 
-								Wir verwenden Ihre Daten, um den Service bereitzustellen und zu verbessern. Durch die Nutzung des Service erklären Sie sich mit der Erfassung und Nutzung von Informationen in Übereinstimmung mit dieser Erklärung einverstanden. Sofern in dieser Datenschutzerklärung nicht anders definiert, haben die in dieser Datenschutzerklärung verwendeten Begriffe die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die unter Fiat2defi .com einsehbar sind.
+								Wir verwenden Ihre Daten, um den Service bereitzustellen und zu verbessern. Durch die Nutzung des Service erklären Sie sich mit der Erfassung und Nutzung von Informationen in Übereinstimmung mit dieser Erklärung einverstanden. Sofern in dieser Datenschutzerklärung nicht anders definiert, haben die in dieser Datenschutzerklärung verwendeten Begriffe die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die unter DFX .com einsehbar sind.
 							</p>
 							<p>
 								<h3>Erfassung und Nutzung von Daten</h3>
@@ -54,7 +54,7 @@
 								</p>
 								<p>
 									<h2>Nutzung der Daten</h2>
-										Fiat2defi  SA verwendet die erhobenen Daten für verschiedene Zwecke:
+										DFX  SA verwendet die erhobenen Daten für verschiedene Zwecke:
 
 										Zur Bereitstellung und Wartung des Service
 										Um Sie über Änderungen an unserem Service zu informieren
@@ -74,21 +74,21 @@
 
 										Ihre Zustimmung zu dieser Datenschutzerklärung und die anschließende Übermittlung derartiger Informationen stellen Ihre Zustimmung zu dieser Übertragung dar.
 
-										Fiat2defi  SA wird alle in zumutbarem Rahmen erforderlichen Schritte unternehmen, um sicherzustellen, dass Ihre Daten sicher und in Übereinstimmung mit dieser Datenschutzrichtlinie gehandhabt werden und dass keine Übermittlung Ihrer personenbezogenen Daten an ein Unternehmen oder ein Land stattfindet, sofern dort keine angemessenen Kontrollmechanismen, einschließlich für die Sicherheit Ihrer Daten und sonstiger personenbezogener Daten, vorliegen.
+										DFX  SA wird alle in zumutbarem Rahmen erforderlichen Schritte unternehmen, um sicherzustellen, dass Ihre Daten sicher und in Übereinstimmung mit dieser Datenschutzrichtlinie gehandhabt werden und dass keine Übermittlung Ihrer personenbezogenen Daten an ein Unternehmen oder ein Land stattfindet, sofern dort keine angemessenen Kontrollmechanismen, einschließlich für die Sicherheit Ihrer Daten und sonstiger personenbezogener Daten, vorliegen.
 								</p>
 								<p>
 									<h2>Offenlegung von Daten</h2>
 									<h3>Gesetzliche Anforderungen</h3>
-										Fiat2defi  wird diese Informationen unter den entsprechenden Sicherheitsbedingungen für einen begrenzten Zeitraum speichern.
+										DFX  wird diese Informationen unter den entsprechenden Sicherheitsbedingungen für einen begrenzten Zeitraum speichern.
 
-										Fiat2defi  wird Ihre personenbezogenen Daten nicht an Dritte weitergeben, mit Ausnahme der folgenden besonderen Umstände:
+										DFX  wird Ihre personenbezogenen Daten nicht an Dritte weitergeben, mit Ausnahme der folgenden besonderen Umstände:
 
-										Im Rahmen der Erfüllung der gesetzlichen und regulatorischen Verpflichtungen, denen Fiat2defi  gemäß dem Bundesgesetz zur Bekämpfung der Geldwäscherei und Terrorismusfinanzierung, dessen Ausführungsverordnungen sowie durch die Verordnung des „Vereins zur Qualitätssicherung von Finanzdienstleistungen“ (VQF) unterliegt.
+										Im Rahmen der Erfüllung der gesetzlichen und regulatorischen Verpflichtungen, denen DFX  gemäß dem Bundesgesetz zur Bekämpfung der Geldwäscherei und Terrorismusfinanzierung, dessen Ausführungsverordnungen sowie durch die Verordnung des „Vereins zur Qualitätssicherung von Finanzdienstleistungen“ (VQF) unterliegt.
 										Bekämpfung von Geldwäsche und Terrorismusfinanzierung (GwG) gemäß der Schweizer Verordnung über die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung (GwV), der Verordnung der Eidgenössischen Finanzmarktaufsicht über die Bekämpfung von Geldwäscherei und Terrorismusfinanzierung im Finanzsektor (GwV-FINMA) sowie der Verordnung des Vereins zur Qualitätssicherung von Finanzdienstleistungen (VQF).
-										Der technische Support von Fiat2defi  ist ein externer Support. Wenn Sie diese nutzen, werden personenbezogene Daten – wie z. B. Ihr Benutzername, Vor- und Nachname, Ihre E-Mail-Adresse, Telefonnummer, IP-Adresse und Zahlungsinformationen – von diesem externen Support gespeichert;
+										Der technische Support von DFX  ist ein externer Support. Wenn Sie diese nutzen, werden personenbezogene Daten – wie z. B. Ihr Benutzername, Vor- und Nachname, Ihre E-Mail-Adresse, Telefonnummer, IP-Adresse und Zahlungsinformationen – von diesem externen Support gespeichert;
 										Die Authentifizierung Ihrer Ausweisdokumente wird von einem spezialisierten externen Unternehmen durchgeführt. Folglich hat dieses Unternehmen Zugriff auf (ausschließlich) diese Dokumente.
-										Notwendige externe Anbieter, die uns helfen, unsere aktuellen Prozesse, Produkt- und Serviceangebote sowie unsere Nutzerbasis angemessen zu pflegen oder zu verwalten. In Fällen, in denen die Inanspruchnahme eines externen Anbieters oder Service erforderlich ist, stellen wir sicher, dass der externe Anbieter dasselbe Maß an Wachsamkeit wie Fiat2defi  in Bezug auf Datenschutz und Datensicherheit walten lässt.
-										Ihre personenbezogenen Daten und/oder Kontaktinformationen werden von Fiat2defi  in keiner Weise verkauft.
+										Notwendige externe Anbieter, die uns helfen, unsere aktuellen Prozesse, Produkt- und Serviceangebote sowie unsere Nutzerbasis angemessen zu pflegen oder zu verwalten. In Fällen, in denen die Inanspruchnahme eines externen Anbieters oder Service erforderlich ist, stellen wir sicher, dass der externe Anbieter dasselbe Maß an Wachsamkeit wie DFX  in Bezug auf Datenschutz und Datensicherheit walten lässt.
+										Ihre personenbezogenen Daten und/oder Kontaktinformationen werden von DFX  in keiner Weise verkauft.
 
 									<h3>Dienstleister</h3>
 										Wir können gegebenenfalls dritte Unternehmen und Einzelpersonen („Dienstleister“) beauftragen, unseren Service zu unterstützen, den Service in unserem Namen bereitzustellen, Service-bezogene Dienstleistungen zu erbringen oder uns bei der Analyse der Nutzung unseres Service zu unterstützen.
