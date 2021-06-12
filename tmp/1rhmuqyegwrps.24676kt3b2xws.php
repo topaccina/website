@@ -135,7 +135,7 @@
 							if DFX believes that the documents provided are incomplete;
 							if you are domiciled or have your headquarters in a country at risk; or
 							if the first payment you made was made from a country at risk or through a bank account which you do not own.
-							Here is the list of countries at risk: <a href="country/">High Risk Countries</a>.
+							Here is the list of countries at risk: <a href="country/">High Risk Countries</a>
 
 							Expert
 							Limit per transaction	500,000 Swiss Francs (CHF)

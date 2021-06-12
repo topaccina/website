@@ -25,8 +25,8 @@
 
   <body>
     <main>
-      <?php echo $this->render('highrisk/header.htm',NULL,get_defined_vars(),0); ?>
-      <?php echo $this->render($page.'/index.htm',NULL,get_defined_vars(),0); ?>
+      <include href="en/header.htm" />
+      <include href="{{ @page.'/index.htm' }}" />
     </main>
 
     <footer id="footer">
@@ -34,7 +34,7 @@
         <div class="row d-flex align-items-center">
           <div class="col-lg-6 text-lg-left text-center">
             <div class="col-lg-6">
-              <a href="/">Deutsch</a>
+              <a href="de/">Deutsch</a>
               <p></p>
                 DFX
                 <br>
@@ -47,7 +47,7 @@
 				<a href="https://google.com"
 
             <div>
-               <a href="https://explorer.defichain.io/#/DFI/mainnet/address/<?= ($wallet['challenge']) ?>" target="_blank"><?= ($wallet['challenge']) ?></a> <br/>  <a href="https://explorer.defichain.io/#/DFI/mainnet/address/<?= ($wallet['incentive']) ?>" target="_blank"><?= ($wallet['incentive']) ?></a>
+               <a href="https://explorer.defichain.io/#/DFI/mainnet/address/{{@wallet.challenge}}" target="_blank">{{@wallet.challenge}}</a> <br/>  <a href="https://explorer.defichain.io/#/DFI/mainnet/address/{{@wallet.incentive}}" target="_blank">{{@wallet.incentive}}</a>
             </div>
           </div>
           <div class="col-lg-6">

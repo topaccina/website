@@ -21,7 +21,7 @@
 				<p style="text-align:justify">
 					<br />
 					&nbsp;</p>
-				<a class="btn-half-transparent scrollto" href="https://t.me/FIAT2DeFi">Telegram Info Kanal</a></div>
+				<a class="btn-half-transparent scrollto" href="https://t.me/DFX">Telegram Info Kanal</a></div>
 		</div>
 	</div>
 </section>
