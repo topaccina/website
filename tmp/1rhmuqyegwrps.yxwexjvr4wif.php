@@ -25,7 +25,7 @@
 
   <body>
     <main>
-      <?php echo $this->render('highrisk/header.htm',NULL,get_defined_vars(),0); ?>
+      <?php echo $this->render('en/header.htm',NULL,get_defined_vars(),0); ?>
       <?php echo $this->render($page.'/index.htm',NULL,get_defined_vars(),0); ?>
     </main>
 
@@ -36,7 +36,7 @@
             <div class="col-lg-6">
               <a href="/">Deutsch</a>
               <p></p>
-                DFX
+                DFX SA
                 <br>
                 Bahnhofstrasse 7, 6300 Zug
                 <br>
@@ -52,12 +52,12 @@
           </div>
           <div class="col-lg-6">
             <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
-              <p><a href="en/">Home</a></p>
-              <p><a href="en/about">About us</a></p>
+              <p><a href="/en">Home</a></p>
+              <p><a href="/en/about">About us</a></p>
               <p><a href="http://api.DFX.ch/" target="_blank">API</a></p>
-              <p><a href="en/roadmap">Roadmap</a></p>
-              <p><a href="en/legal">Legal</a></p>
-              <p><a href="en/privacy">Privacy Policy</a></p>
+              <p><a href="/en/roadmap">Roadmap</a></p>
+              <p><a href="/en/legal">Legal</a></p>
+              <p><a href="/en/privacy">Privacy Policy</a></p>
             </nav>
           </div>
         </div>
