@@ -53,7 +53,7 @@
           <div class="col-lg-6">
             <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
               <p><a href="/en">Home</a></p>
-              <p><a href="/en/about">About us</a></p>
+              <p><a href="/en/about">Our Team</a></p>
               <p><a href="http://api.DFX.ch/" target="_blank">API</a></p>
               <p><a href="/en/roadmap">Roadmap</a></p>
               <p><a href="/en/legal">Legal</a></p>
