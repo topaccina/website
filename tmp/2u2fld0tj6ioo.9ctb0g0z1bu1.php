@@ -3,7 +3,7 @@
 
     <div class="logo mr-auto">
       <h1 style="display:none;">DeFiChain Exchange</h1>
-      <a href="/"><img src="/assets/img/defipromo_logos/Logo_DFX.png" alt="DeFiChain Promo - Logo" class="img-fluid"></a>
+      <a href="/"><img src="/assets/img/defipromo_logos/Logo_Decentralized Finance Exchange.png" alt="DeFiChain Promo - Logo" class="img-fluid"></a>
     </div>
 
     <nav class="nav-menu d-none d-lg-block">

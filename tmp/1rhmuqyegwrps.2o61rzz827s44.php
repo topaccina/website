@@ -2,12 +2,12 @@
 	<div class="container">
 		<div class="section-title" data-aos="fade-up">
 			<h2>
-				About DFX</h2>
+				About Decentralized Finance Exchange</h2>
 		</div>
 		<div class="row content">
 			<div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
 				<p style="text-align:justify">
-					The DFX exchange is a community project that aims to sell DeFi assets against EUR, CHF and USD in an easy and uncomplicated way. After receiving the money, the purchased asset is transferred to the customer's address via blockchain transaction. Customers control their assets themselves after the purchase via the private key.</p>
+					The Decentralized Finance Exchange exchange is a community project that aims to sell DeFi assets against EUR, CHF and USD in an easy and uncomplicated way. After receiving the money, the purchased asset is transferred to the customer's address via blockchain transaction. Customers control their assets themselves after the purchase via the private key.</p>
 				<ul>
 					<li><i class="ri-check-double-line"></i>Transaction processed within 1 working day</li>
 					 <li><i class="ri-check-double-line"></i>Easy to use</li>
