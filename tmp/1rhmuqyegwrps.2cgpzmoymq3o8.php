@@ -3,10 +3,10 @@
 		<div class="row">
 			<div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
 				<h1 data-aos="fade-up">
-					Decentral Finance Exchange</h1>
+					DFX</h1>
 				<h2 data-aos="fade-up" data-aos-delay="400">
-					Buy each DeFi Asset with EUR, CHF or USD<br />
-					immediately via bank transfer!</h2>
+					Smoothest on-ramp to invest in any DeFi asset with EUR, CHF & USD
+					just via bank transfer<br />round the clock!
 				<div data-aos="fade-up" data-aos-delay="800">
 					<a class="btn-get-started scrollto" href="#about">More information</a></div>
 			</div>

@@ -11,18 +11,18 @@ $f3->config('config.ini');
 if ((float)PCRE_VERSION<8.0)
     trigger_error('PCRE version is out of date');
 
-$f3->route('GET /',
-    function($f3) {
-        $f3->set('TITLE','Empower the DeFiChain!');
-        $f3->set('page','de/home');
-        echo Template::instance()->render('de/layout.htm');
-    }
-);
+    $f3->route('GET /',
+        function($f3) {
+            $f3->set('TITLE','Home');
+            $f3->set('page','de/home/');
+            echo Template::instance()->render('de/layout.htm');
+        }
+    );
 
-$f3->route('GET /',
+$f3->route('GET /de',
     function($f3) {
         $f3->set('TITLE','Home');
-        $f3->set('page','de/home');
+        $f3->set('page','de/home/');
         echo Template::instance()->render('de/layout.htm');
     }
 );

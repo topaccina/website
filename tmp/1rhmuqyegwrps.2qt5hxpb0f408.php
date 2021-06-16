@@ -12,7 +12,7 @@
 						<p>Zuletzt aktualisiert: May 19th, 2021</p>
 						<p>Im Falle von Unstimmigkeiten ist die englische Version maßgebend.</p>
 						<p>
-							DFX  (Unternehmens-Identifikationsnummer: ) mit Sitz in der Bahnhofstrasse 7, 6300 Zug, Schweiz („wir“, „uns“ oder „unser“) betreibt die Website DFX .com (den „Service“). Der Zugriff auf und die Nutzung der Website unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“). Diese Allgemeinen Geschäftsbedingungen werden durch sämtliche Sondervereinbarungen ergänzt, die im Zusammenhang mit von DFX  angebotenen Dienstleistungen oder Produkten gelten, bei denen Sie oder Ihr Vertreter (im Folgenden „Sie“) als Vertragspartner auftreten. Im Falle eines Konflikts haben jedoch die Bestimmungen einer solchen Sondervereinbarung Vorrang.
+							DFX  (Unternehmens-Identifikationsnummer: CHE-429.856.521) mit Sitz in der Bahnhofstrasse 7, 6300 Zug, Schweiz („wir“, „uns“ oder „unser“) betreibt die Website Fiat2defi.ch (den „Service“). Der Zugriff auf und die Nutzung der Website unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“). Diese Allgemeinen Geschäftsbedingungen werden durch sämtliche Sondervereinbarungen ergänzt, die im Zusammenhang mit von DFX  angebotenen Dienstleistungen oder Produkten gelten, bei denen Sie oder Ihr Vertreter (im Folgenden „Sie“) als Vertragspartner auftreten. Im Falle eines Konflikts haben jedoch die Bestimmungen einer solchen Sondervereinbarung Vorrang.
 
 							Mit dem Zugriff auf und der Nutzung der Website bestätigen Sie, dass Sie die Allgemeinen Geschäftsbedingungen gelesen, verstanden und akzeptiert haben.
 
@@ -146,7 +146,7 @@
 								DFX  der Ansicht ist, dass die zur Verfügung gestellten Unterlagen unvollständig sind;
 								Sie Ihren Wohn- oder Geschäftssitz in einem gefährdeten Land haben; oder
 								Die erste Zahlung, die Sie geleistet haben, aus einem gefährdeten Land oder über ein Bankkonto erfolgt ist, das Ihnen nicht gehört.
-								Hier finden Sie die Liste der gefährdeten Länder: <a href="country/">Hoch-Risiko Laender</a> .
+								Hier finden Sie die Liste der gefährdeten Länder: <a href="country/">Hoch-Risiko Laender</a>.
 
 								Experte
 								Limit pro Transaktion	500.000 Schweizer Franken (CHF)

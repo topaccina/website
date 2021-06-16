@@ -7,8 +7,8 @@
 		<nav class="nav-menu d-none d-lg-block">
 			<ul>
 				<li class="active">
-					<a href="/">Home</a>
-					<a href="en/">English</a></li>
+					<a href="en/">Home</a>
+					<a href="de/">Deutsch</a></li>
 			</ul>
 		</nav>
 		<!-- .nav-menu --></div>
