@@ -36,7 +36,7 @@
             <div class="col-lg-6">
               <a href="/en">English</a>
               <p></p>
-                Decentralized Finance Exchange AG
+                Fiat2DeFi AG
                 <br>
                 Bahnhofstrasse 7, 6300 Zug
                 <br>
@@ -54,7 +54,7 @@
             <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
               <p><a href="/">Home</a></p>
               <p><a href="/de/about/">Unser Team</a></p>
-              <p><a href="http://api.Decentralized Finance Exchange.ch/" target="_blank">API</a></p>
+              <p><a href="http://api.fiat2defi.ch/" target="_blank">API</a></p>
               <p><a href="/de/roadmap">Roadmap</a></p>
               <p><a href="/de/legal">Rechtliches</a></p>
               <p><a href="/de/privacy">Datenschutzerklaerung</a></p>
