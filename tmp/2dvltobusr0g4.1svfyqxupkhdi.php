@@ -43,7 +43,7 @@
           <div class="col-lg-6">
             <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
               <a href="/">Home</a>
-              <a href="http://api.DFX.ch/" target="_blank">API</a>
+              <a href="http://api.Decentralized Finance Exchange.ch/" target="_blank">API</a>
               <a href="/roadmap">Roadmap</a>
               <a href="/legal">Legal Notice</a>
             </nav>

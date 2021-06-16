@@ -29,7 +29,7 @@
 			
 
           </p>
-          <a href="https://t.me/DFX" class="btn-half-transparent scrollto"><i class="ifont icofont-light-bulb"></i>Telegram Info Kanal</a>
+          <a href="https://t.me/Decentralized Finance Exchange" class="btn-half-transparent scrollto"><i class="ifont icofont-light-bulb"></i>Telegram Info Kanal</a>
         </div>
       </div>
 

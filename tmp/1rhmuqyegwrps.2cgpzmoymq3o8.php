@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
 				<h1 data-aos="fade-up">
-					DFX</h1>
+					Decentralized Finance Exchange</h1>
 				<h2 data-aos="fade-up" data-aos-delay="400">
 					Smoothest on-ramp to invest in any DeFi asset with EUR, CHF & USD
 					just via bank transfer<br />round the clock!
