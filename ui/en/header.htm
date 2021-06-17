@@ -4,13 +4,15 @@
 			<h1 style="display:none;">
 				DeFiChain Exchange</h1>
 			<a href="/"><img alt="DeFiChain Promo - Logo" class="img-fluid" src="/assets/img/defipromo_logos/logo_defichange-2.png" /></a></div>
-		<nav class="nav-menu d-none d-lg-block">
-			<ul>
-				<li class="active">
-					<a href="/en">Home</a>
-					<a href="/de">Deutsch</a></li>
-			</ul>
-		</nav>
+			<nav class="nav-menu d-none d-lg-block">
+				<ul>
+					<li class=""><a href="/en">Home</a></li>
+					<li class=""><a href="/en/about/">About us</a></li>
+					<li class=""><a href="/en">News</a></li>
+					<li class=""><a href="/en">Contact</a></li>
+					<li class=""><a href="/">Deutsch</a></li>
+				</ul>
+			</nav><!-- .nav-menu -->
 		<!-- .nav-menu --></div>
 </header>
 <br />

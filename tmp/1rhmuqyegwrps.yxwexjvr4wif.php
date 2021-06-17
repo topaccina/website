@@ -36,7 +36,7 @@
             <div class="col-lg-6">
               <a href="/">Deutsch</a>
               <p></p>
-                Decentralized Finance Exchange 
+                Fiat2defi AG
                 <br>
                 Bahnhofstrasse 7, 6300 Zug
                 <br>
