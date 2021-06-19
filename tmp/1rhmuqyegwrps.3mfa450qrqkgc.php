@@ -41,7 +41,7 @@
 				Schweiz
 				<br>
 				<br>
-				Email: <a href="">contact@Fiat2defi.swiss</a>
+				Email: <a href="">contact@fiat2defi.ch</a>
 			<p></p>
 		</div>
 </div>

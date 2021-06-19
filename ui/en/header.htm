@@ -8,7 +8,7 @@
 				<ul>
 					<li class=""><a href="/en">Home</a></li>
 					<li class=""><a href="/en/about/">About us</a></li>
-					<li class=""><a href="/en">Blog</a></li>
+					<li class=""><a href="/en/blog">Blog</a></li>
 					<li class=""><a href="/en/faq">FAQ</a></li>
 					<li class=""><a href="/en/contact">Contact</a></li>
 					<li class="drop-down "><a href="">Language/Sprache</a>

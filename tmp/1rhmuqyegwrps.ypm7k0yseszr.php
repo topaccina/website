@@ -1,5 +1,7 @@
 <section class="about" id="about">
 	<div class="container">
+		<br/>
+		<br/>
 		<div class="section-title" data-aos="fade-up">
 			<h2>
 				Unsere Vision</h2>

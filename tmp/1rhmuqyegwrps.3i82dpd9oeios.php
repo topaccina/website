@@ -9,7 +9,7 @@
 	      <ul>
 	        <li class=""><a href="/">Home</a></li>
 	   			<li class=""><a href="/de/about/">&Uuml;ber uns</a></li>
-					<li class=""><a href="/">Blog</a></li>
+					<li class=""><a href="/de/blog">Blog</a></li>
 					<li class=""><a href="/de/faq">FAQ</a></li>
 					<li class=""><a href="/de/contact">Kontakt</a></li>
 					<li class="drop-down "><a href="">Language/Sprache</a>
