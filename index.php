@@ -59,6 +59,22 @@ $f3->route('GET /de/privacy',
     }
 );
 
+$f3->route('GET /de/contact',
+    function($f3) {
+        $f3->set('TITLE','Contact');
+        $f3->set('page','de/contact');
+        echo Template::instance()->render('de/layout.htm');
+    }
+);
+
+$f3->route('GET /de/faq',
+    function($f3) {
+        $f3->set('TITLE','FAQ');
+        $f3->set('page','de/faq');
+        echo Template::instance()->render('de/layout.htm');
+    }
+);
+
 
 
 ////////////////////////////////////////////////////////////////////EN/////////////////////////////////////////////////////////
@@ -127,6 +143,14 @@ $f3->route('GET /de/country',
         $f3->set('TITLE','High Risk Countries');
         $f3->set('page','de/country');
         echo Template::instance()->render('de/layout.htm');
+    }
+);
+
+$f3->route('GET /en/contact',
+    function($f3) {
+        $f3->set('TITLE','Contact');
+        $f3->set('page','en/contact');
+        echo Template::instance()->render('en/layout.htm');
     }
 );
 

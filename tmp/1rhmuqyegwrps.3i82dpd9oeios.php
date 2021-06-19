@@ -9,9 +9,16 @@
 	      <ul>
 	        <li class=""><a href="/">Home</a></li>
 	   			<li class=""><a href="/de/about/">&Uuml;ber uns</a></li>
-					<li class=""><a href="/">News</a></li>
-					<li class=""><a href="/">Kontakt</a></li>
-	        <li class=""><a href="/en">English</a></li>
+					<li class=""><a href="/">Blog</a></li>
+					<li class=""><a href="/de/faq">FAQ</a></li>
+					<li class=""><a href="/de/contact">Kontakt</a></li>
+					<li class="drop-down "><a href="">Sprache</a>
+						<ul>
+							<li class=""><a href="/">Deutsch</a></li>
+							<li class=""><a href="/en">English</a></li>
+						</ul>
+					</li>
+					<li class="get-started blue"><a href="https://twitter.com/D_F_Exchange"><i class="ifont icofont-twitter"></i> Folge uns on Twitter</a></li>
 	      </ul>
 	    </nav><!-- .nav-menu -->
 
