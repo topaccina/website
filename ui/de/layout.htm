@@ -34,7 +34,6 @@
         <div class="row d-flex align-items-center">
           <div class="col-lg-6 text-lg-left text-center">
             <div class="col-lg-6">
-              <a href="/en">English</a>
               <p></p>
                 Fiat2DeFi AG
                 <br>

@@ -9,9 +9,9 @@
 					<li class=""><a href="/en">Home</a></li>
 					<li class=""><a href="/en/about/">About us</a></li>
 					<li class=""><a href="/en">Blog</a></li>
-					<li class=""><a href="/">FAQ</a></li>
+					<li class=""><a href="/en/faq">FAQ</a></li>
 					<li class=""><a href="/en/contact">Contact</a></li>
-					<li class="drop-down "><a href="">Language</a>
+					<li class="drop-down "><a href="">Language/Sprache</a>
 						<ul>
 							<li class=""><a href="/">Deutsch</a></li>
 							<li class=""><a href="/en">English</a></li>

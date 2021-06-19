@@ -154,5 +154,13 @@ $f3->route('GET /en/contact',
     }
 );
 
+$f3->route('GET /en/faq',
+    function($f3) {
+        $f3->set('TITLE','FAQ');
+        $f3->set('page','en/faq');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
+
 
 $f3->run();

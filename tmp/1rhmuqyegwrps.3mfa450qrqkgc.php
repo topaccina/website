@@ -16,6 +16,18 @@
 	<br />
 	<br />
 	<div class="section-title" data-aos="fade-up">
+	<h2 align="left">
+		GitHub</h2>
+	</div>
+	<div class="row content">
+		<div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
+			<p>Unser GitHub Repo: <a href="https://github.com/DeFiChange">GitHub besuchen</a></p>
+		</div>
+	</div>
+	<br />
+	<br />
+	<br />
+	<div class="section-title" data-aos="fade-up">
 		<h2 align="left">
 			Details</h2>
 	</div>

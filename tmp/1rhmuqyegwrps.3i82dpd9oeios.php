@@ -12,7 +12,7 @@
 					<li class=""><a href="/">Blog</a></li>
 					<li class=""><a href="/de/faq">FAQ</a></li>
 					<li class=""><a href="/de/contact">Kontakt</a></li>
-					<li class="drop-down "><a href="">Sprache</a>
+					<li class="drop-down "><a href="">Language/Sprache</a>
 						<ul>
 							<li class=""><a href="/">Deutsch</a></li>
 							<li class=""><a href="/en">English</a></li>
