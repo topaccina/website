@@ -83,6 +83,14 @@ $f3->route('GET /de/blog',
     }
 );
 
+$f3->route('GET /de/proof',
+    function($f3) {
+        $f3->set('TITLE','Mittelherkunftsnachweis');
+        $f3->set('page','de/proof');
+        echo Template::instance()->render('de/layout.htm');
+    }
+);
+
 ////////////////////////////////////////////////////////////////////EN/////////////////////////////////////////////////////////
 
 
@@ -172,6 +180,14 @@ $f3->route('GET /en/blog',
     function($f3) {
         $f3->set('TITLE','FAQ');
         $f3->set('page','en/blog');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
+
+$f3->route('GET /en/proof',
+    function($f3) {
+        $f3->set('TITLE','Proof of Origin of Funds');
+        $f3->set('page','en/proof');
         echo Template::instance()->render('en/layout.htm');
     }
 );

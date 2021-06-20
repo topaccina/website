@@ -20,7 +20,7 @@
 					<br />
 					Bisher sind etliche Schritte notwendig, um in DeFi Assets zu investieren bzw. mit diesen zu handeln, was viele
 					Menschen davon abh&auml;lt dieses dezentrale &Ouml;kosystem zu nutzen. Insbesondere die limitierte Nutzerfreundlichkeit
-					und die fehlende Integration von &uuml;blichen Zahlungsmethoden sind Barrieren, die potenzielle Nutzer von Defichain
+					und die fehlende Integration von &uuml;blichen Zahlungsmethoden sind Barrieren, die potenzielle Nutzer von DeFi
 					fernh&auml;lt.
 					<br />
 					<br />

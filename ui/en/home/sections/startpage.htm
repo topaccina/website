@@ -5,8 +5,8 @@
 				<h1 data-aos="fade-up">
 					Decentralized Finance Exchange</h1>
 				<h2 data-aos="fade-up" data-aos-delay="400">
-					Smoothest on-ramp to invest in any DeFi asset with EUR, CHF & USD
-					just via bank transfer<br />round the clock!</h2>
+					Invest in any DeFi asset with EUR, CHF & USD
+					via bank transfer.</h2>
 				<div data-aos="fade-up" data-aos-delay="800">
 					<a class="btn-get-started scrollto" href="#about">More information</a></div>
 			</div>

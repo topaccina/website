@@ -52,9 +52,8 @@
           <div class="col-lg-6">
             <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
               <p><a href="/en">Home</a></p>
-              <p><a href="/en/about">Our Team</a></p>
               <p><a href="http://api.fiat2defi.ch/" target="_blank">API</a></p>
-              <p><a href="/en/roadmap">Roadmap</a></p>
+              <p><a href="/en/proof">Proof of Origins of Funds</a></p>
               <p><a href="/en/legal">Legal</a></p>
               <p><a href="/en/privacy">Privacy Policy</a></p>
             </nav>
