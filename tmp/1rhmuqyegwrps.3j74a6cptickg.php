@@ -35,7 +35,7 @@
           <div class="col-lg-6 text-lg-left text-center">
             <div class="col-lg-6">
               <p></p>
-                Fiat2DeFi AG
+                Fiat2defi AG
                 <br>
                 Bahnhofstrasse 7, 6300 Zug
                 <br>
