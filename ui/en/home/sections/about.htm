@@ -7,20 +7,19 @@
 		<div class="row content">
 			<div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
 				<p style="text-align:justify">
-					The Decentralized Finance Exchange exchange is a community project that aims to sell DeFi assets against EUR, CHF and USD in an easy and uncomplicated way. After receiving the money, the purchased asset is transferred to the customer's address via blockchain transaction. Customers control their assets themselves after the purchase via the private key.</p>
-				<ul>
-					<li><i class="ri-check-double-line"></i>Transaction processed within 1 working day</li>
-					 <li><i class="ri-check-double-line"></i>Easy to use</li>
-					 <li><i class="ri-check-double-line"></i>No KYC until 1&#39;000 CHF or 900 EUR per day</li>
-				</ul>
+					The Decentralized Finance Exchange is a community project to enable users to swap
+					EUR, CHF and USD into DeFi assets in a simple and intuitive way via common bank transfer. After receiving the money,
+					the purchased asset is transferred to the customer's address via blockchain transaction. Customers control the
+					assets themselves in their wallets or rather with their private keys after the trade.</p>
 			</div>
 			<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
-				<p style="text-align:justify">
-					&nbsp; &nbsp;<br />
-					<a style="width: 300px; height: 300px;" /></a></p>
-				<br />
-				<br />
-				<span style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><a </a></div>
+				<ul>
+					 <li><i class="ri-check-double-line"></i>Purchases and sales of DeFi assets via standard bank transfer</li>
+					 <li><i class="ri-check-double-line"></i>Referral link system</li>
+					 <li><i class="ri-check-double-line"></i>Savings plan available</li>
+					 <li><i class="ri-check-double-line"></i>No KYC needed until 1&#39;000 CHF or 900 EUR per day</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </section>

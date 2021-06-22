@@ -34,9 +34,8 @@
         <div class="row d-flex align-items-center">
           <div class="col-lg-6 text-lg-left text-center">
             <div class="col-lg-6">
-              <a href="/en">English</a>
               <p></p>
-                Fiat2DeFi AG
+                Fiat2defi AG
                 <br>
                 Bahnhofstrasse 7, 6300 Zug
                 <br>
@@ -53,9 +52,8 @@
           <div class="col-lg-6">
             <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
               <p><a href="/">Home</a></p>
-              <p><a href="/de/about/">Unser Team</a></p>
               <p><a href="http://api.fiat2defi.ch/" target="_blank">API</a></p>
-              <p><a href="/de/roadmap">Roadmap</a></p>
+              <p><a href="/de/proof">Mittelherkunftsnachweis</a></p>
               <p><a href="/de/legal">Rechtliches</a></p>
               <p><a href="/de/privacy">Datenschutzerklaerung</a></p>
             </nav>

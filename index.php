@@ -59,7 +59,37 @@ $f3->route('GET /de/privacy',
     }
 );
 
+$f3->route('GET /de/contact',
+    function($f3) {
+        $f3->set('TITLE','Contact');
+        $f3->set('page','de/contact');
+        echo Template::instance()->render('de/layout.htm');
+    }
+);
 
+$f3->route('GET /de/faq',
+    function($f3) {
+        $f3->set('TITLE','FAQ');
+        $f3->set('page','de/faq');
+        echo Template::instance()->render('de/layout.htm');
+    }
+);
+
+$f3->route('GET /de/blog',
+    function($f3) {
+        $f3->set('TITLE','FAQ');
+        $f3->set('page','de/blog');
+        echo Template::instance()->render('de/layout.htm');
+    }
+);
+
+$f3->route('GET /de/proof',
+    function($f3) {
+        $f3->set('TITLE','Mittelherkunftsnachweis');
+        $f3->set('page','de/proof');
+        echo Template::instance()->render('de/layout.htm');
+    }
+);
 
 ////////////////////////////////////////////////////////////////////EN/////////////////////////////////////////////////////////
 
@@ -130,5 +160,36 @@ $f3->route('GET /de/country',
     }
 );
 
+$f3->route('GET /en/contact',
+    function($f3) {
+        $f3->set('TITLE','Contact');
+        $f3->set('page','en/contact');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
+
+$f3->route('GET /en/faq',
+    function($f3) {
+        $f3->set('TITLE','FAQ');
+        $f3->set('page','en/faq');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
+
+$f3->route('GET /en/blog',
+    function($f3) {
+        $f3->set('TITLE','FAQ');
+        $f3->set('page','en/blog');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
+
+$f3->route('GET /en/proof',
+    function($f3) {
+        $f3->set('TITLE','Proof of Origin of Funds');
+        $f3->set('page','en/proof');
+        echo Template::instance()->render('en/layout.htm');
+    }
+);
 
 $f3->run();
