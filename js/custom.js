@@ -26,8 +26,6 @@ Name: custom.js
 
 */
 
-
-
 jQuery(document).ready(function($) {
 
 
