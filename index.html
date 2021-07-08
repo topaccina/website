@@ -481,9 +481,7 @@
 					 des Geldes wird das gekaufte Asset mittels Blockchain Transaktion auf die Kundenadresse transferiert. Kunden
 					 kontrollieren ihre Assets nach dem Kauf eigenverantwortlich &uuml;ber ihre Wallet bzw. &uuml;ber ihren Private Key.</p>
 
-            
 						<a class="btn btn-small btn-pink border-radius-50 md-margin-left-right-auto sm-display-table" href="vision.html">Mehr &uuml;ber unsere Vision</a>
-
 
 					</div>
 					<!-- End Column -->
@@ -994,14 +992,14 @@
 						<div class="contact-wrapper">
 
 							<!-- Form Container -->
-							<form>
+								<form class="contact-form" method="post" action="contact.php">
 
 								<!-- Input -->
 								<div class="uk-inline margin-bottom-20px width-50">
 
 									<span class="uk-form-icon" data-uk-icon="icon: user"></span>
 
-									<input class="uk-input bg-transparent" type="text" data-uk-tooltip="title: Full Name; pos: right">
+									<input id="notify-name" class="uk-input bg-transparent" type="text" data-uk-tooltip="title: Full Name; pos: right">
 
 								</div>
 								<!-- End Input -->
@@ -1012,16 +1010,20 @@
 
 									<span class="uk-form-icon" data-uk-icon="icon: mail"></span>
 
-									<input class="uk-input bg-transparent" type="text" data-uk-tooltip="title: Email; pos: right">
+									<input id="notify-email" class="uk-input bg-transparent" type="text" data-uk-tooltip="title: Email; pos: right">
 
 								</div>
+								</br>
+								<input type="submit" class="btn-send btn btn-small btn-pink border-radius-50 sm-margin-left-right-auto sm-display-table" value="Benachrichtigt mich.">
 								<!-- End Input -->
+
+							<!-- Button -->
+
 
 							</form>
 							<!-- End Form Container -->
 
-							<!-- Button -->
-							<a class="btn btn-small btn-pink border-radius-50 sm-margin-left-right-auto sm-display-table" href="#">Benachrichtigt mich.</a>
+
 
 
 						</div>
@@ -1124,7 +1126,7 @@
 															<p class="text-small text-weight-400 margin-bottom-10px">First Name *</p>
 
 															<!-- Input -->
-															<input class="form-control form_name no-margin-top padding-30px text-small bg-transparent text-gray-extra-dark text-weight-400 roboto border-color-gray-extra-light" type="text" name="name"  placeholder="i.e. Jason" required="required" data-error="First name is required.">
+															<input id="contact-first-name" class="form-control form_name no-margin-top padding-30px text-small bg-transparent text-gray-extra-dark text-weight-400 roboto border-color-gray-extra-light" type="text" name="name"  placeholder="i.e. Jason" required="required" data-error="First name is required.">
 
 															<!-- Error Block -->
 															<div class="help-block with-errors"></div>
@@ -1145,7 +1147,7 @@
 															<p class="text-small text-weight-400 margin-bottom-10px">Last Name *</p>
 
 															<!-- Input -->
-															<input class="form-control form_name no-margin-top padding-30px text-small bg-transparent text-gray-extra-dark text-weight-400 roboto border-color-gray-extra-light" type="text" name="name"  placeholder="i.e. Statham" required="required" data-error="Last name is required.">
+															<input id="contact-last-name" class="form-control form_name no-margin-top padding-30px text-small bg-transparent text-gray-extra-dark text-weight-400 roboto border-color-gray-extra-light" type="text" name="name"  placeholder="i.e. Statham" required="required" data-error="Last name is required.">
 
 															<!-- Error Block -->
 															<div class="help-block with-errors"></div>
@@ -1173,7 +1175,7 @@
 															<p class="text-small text-weight-400 margin-bottom-10px">E-mail Address *</p>
 
 															<!-- Input -->
-															<input class="form-control form_name no-margin-top padding-30px text-small bg-transparent text-gray-extra-dark text-weight-400 roboto border-color-gray-extra-light" type="email" name="email" placeholder="i.e. jason@statham.com" required="required" data-error="Valid email is required.">
+															<input id="contact-email" class="form-control form_name no-margin-top padding-30px text-small bg-transparent text-gray-extra-dark text-weight-400 roboto border-color-gray-extra-light" type="email" name="email" placeholder="i.e. jason@statham.com" required="required" data-error="Valid email is required.">
 
 															<!-- Error Block -->
 															<div class="help-block with-errors"></div>
@@ -1213,7 +1215,7 @@
 															<p class="text-small text-weight-400 margin-bottom-10px">Your Messages *</p>
 
 															<!-- Input -->
-															<textarea class="form-control form_message no-margin-top padding-30px bg-transparent text-small text-gray-extra-dark text-weight-400 roboto border-color-gray-extra0light" name="message" placeholder="Start here..." rows="4" required="required" data-error="Please,leave us a message."></textarea>
+															<textarea id="contact-message" class="form-control form_message no-margin-top padding-30px bg-transparent text-small text-gray-extra-dark text-weight-400 roboto border-color-gray-extra0light" name="message" placeholder="Start here..." rows="4" required="required" data-error="Please,leave us a message."></textarea>
 
 															<!-- Error Block -->
 															<div class="help-block with-errors"></div>
@@ -1229,7 +1231,7 @@
 													<div class="col-md-12 text-center">
 
 														<!-- Input -->
-														<input type="submit" class="btn-send btn btn-small btn-pink border-radius-50 sm-margin-left-right-auto sm-display-table" value="Abschicken">
+														<input type="submit" class="btn-send btn btn-small btn-pink border-radius-50 sm-margin-left-right-auto sm-display-table" value="Abschicken.">
 
 													</div>
 													<!-- End Column -->
