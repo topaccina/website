@@ -36,8 +36,8 @@ jQuery(document).ready(function($) {
       $.post({
         url: "/php/contact.php",
         data: {
-        	firstname : $("#contact-first-name").val(),
-					lastname : $("#contact-last-name").val(),
+        	name : $("#contact-first-name").val(),
+					surname : $("#contact-last-name").val(),
 					email : $("#contact-email").val(),
 					message : $("#contact-message").val(),
         }
