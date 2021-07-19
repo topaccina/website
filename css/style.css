@@ -1236,6 +1236,12 @@ hr.ridge{
 
 }
 
+.uk-navbar-dropdown-nav>li.uk-active>a:hover{
+
+	color: #ff01af;
+
+}
+
 .navbar-white .uk-navbar-dropdown-nav>li>a{
 
 	font-weight: 400;
