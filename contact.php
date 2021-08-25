@@ -4,10 +4,10 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'Support Request to Decentralized Finance Exchange Support <demo@domain.com>';
+$from = 'Support Request to DFX Support <demo@domain.com>';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'Decentralized Finance Exchange Support <jonas.p.surmann@gmail.com>';
+$sendTo = 'DFX Support <jonas.p.surmann@gmail.com>';
 
 // subject of the email
 $subject = 'New message from DFX contact form';
