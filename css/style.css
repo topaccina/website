@@ -4907,7 +4907,7 @@ blockquote p{
 	position: fixed;
 	bottom: 40px;
 	right: 40px;
-	background: #ff01af;
+	background: #f5516c;
 	z-index: 999;
 	width: 50px;
 	height: 50px;
@@ -11116,7 +11116,7 @@ blockquote p{
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #ff01af;
+  border: 4px solid #f5516c;
   top: 15px;
   border-radius: 50%;
   z-index: 2;
@@ -11154,9 +11154,9 @@ blockquote p{
   width: 0;
   z-index: 2;
   right: 30px;
-  border: medium solid #ff01af;
+  border: medium solid #f5516c;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #ff01af;
+  border-color: transparent transparent transparent #f5516c;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -11181,9 +11181,9 @@ blockquote p{
   width: 0;
   z-index: 2;
   left: 30px;
-  border: medium solid #ff01af;
+  border: medium solid #f5516c;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #ff01af transparent transparent;
+  border-color: transparent #f5516c transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
@@ -11204,7 +11204,7 @@ blockquote p{
 .contentR:hover {
   padding: 20px 30px;
 	color: #010101;
-  background-color: #ff01af;
+  background-color: #f5516c;
   position: relative;
   border-radius: 6px;
   z-index: 2;
@@ -11244,9 +11244,9 @@ blockquote p{
     width: 0;
     z-index: 2;
     right: 30px;
-    border: medium solid #ff01af;
+    border: medium solid #f5516c;
     border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent #ff01af;
+    border-color: transparent transparent transparent #f5516c;
   }
 
   .rightR:hover:before {
@@ -11257,9 +11257,9 @@ blockquote p{
     width: 0;
     z-index: 2;
     left: 30px;
-    border: medium solid #ff01af;
+    border: medium solid #f5516c;
     border-width: 10px 10px 10px 0;
-    border-color: transparent #ff01af transparent transparent;
+    border-color: transparent #f5516c transparent transparent;
   }
 
   /* Fix the circle for containers on the right side */
@@ -11280,7 +11280,7 @@ blockquote p{
   .contentR:hover {
     padding: 20px 30px;
   	color: #010101;
-    background-color: #ff01af;
+    background-color: #f5516c;
     position: relative;
     border-radius: 6px;
     z-index: 2;
