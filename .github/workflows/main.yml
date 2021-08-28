@@ -16,3 +16,5 @@ jobs:
         server: ${{ secrets.HOST }}
         username: ${{ secrets.USER }}
         password: ${{ secrets.PASSWORD }}
+        server-dir: dfx.swiss/
+
