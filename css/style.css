@@ -1199,9 +1199,9 @@ hr.ridge{
 }
 
 .uk-navbar-nav>li>a:hover{
-	color: #ff01af;
+	color: #f5516c;
   text-decoration: underline;
-  text-decoration-color: #ff01af;
+  text-decoration-color: #f5516c;
   text-decoration-thickness: 10%;
 	font-size: 18px;
 	font-weight: 400;
@@ -1238,7 +1238,7 @@ hr.ridge{
 
 .uk-navbar-dropdown-nav>li.uk-active>a:hover{
 
-	color: #ff01af;
+	color: #f5516c;
 
 }
 
@@ -2373,7 +2373,7 @@ h6{
 
 .text-pink{
 
-    color: #ff01af
+    color: #f5516c
 
 }
 
@@ -3200,7 +3200,7 @@ blockquote p{
 
 .bg-pink{
 
-    background-color: #ff01af
+    background-color: #f5516c
 
 }
 
@@ -4187,7 +4187,7 @@ blockquote p{
 
 .tag{
 
-	color: #ff01af;
+	color: #f5516c;
 	border: 1px solid #ff01af;
 	border-radius: 5px;
 	padding: 7px;
@@ -4199,8 +4199,8 @@ blockquote p{
 }
 
 .tag:hover{
-	background: #ff01af;
-	color: #ff01af;
+	background: #f5516c;
+	color: #f5516c;
 	text-decoration: none;
 
 }
@@ -4263,8 +4263,8 @@ blockquote p{
 
 .btn-pink{
 
-    background: #ff01af !important;
-    border-color: #ff01af !important;
+    background: #f5516c !important;
+    border-color: #f5516c !important;
     color: #fff !important
 
 }
@@ -4273,7 +4273,7 @@ blockquote p{
 .btn-pink:focus{
 
     background: transparent !important;
-    color: #ff01af !important
+    color: #f5516c !important
 
 }
 
