@@ -145,6 +145,7 @@ Name: style.css
 
     22. Div Container FAQ
 
+    23. Start Screen Image
 
 ====================================================*/
 
@@ -11350,4 +11351,32 @@ blockquote p{
 /* When moving the mouse over the close button */
 .closebtn:hover {
   color: black;
+}
+
+/*======================
+
+	23. Start Screen Image
+
+========================*/
+
+.img_normal {
+  max-width: 100%;
+  height: auto;
+}
+.img_normal_non {
+  visibility: hidden;
+}
+
+@media screen and (max-width: 768px) {
+
+  .img_mobile {
+    max-width: 100%;
+    height: auto;
+  }
+  .img_mobile_non {
+    visibility: hidden;
+  }
+  .img_normal_non {
+    visibility: visible;
+  }
 }
