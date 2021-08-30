@@ -4228,8 +4228,20 @@ blockquote p{
 
     font-size: 14px;
     line-height: 25px;
-	padding: 10px 35px 10px 37px
+	   padding: 10px 35px 10px 37px
 
+}
+
+.btn-large-extra{
+    margin-right: 2%;
+    margin-bottom: 0%;
+}
+
+@media screen and (max-width: 768px) {
+  .btn-mobile {
+    margin-right: 0%;
+    margin-bottom: 2%;
+  }
 }
 
 .btn-extra-large{
