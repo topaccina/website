@@ -1202,7 +1202,7 @@ hr.ridge{
 }
 
 .uk-navbar-nav>li>a{
-	color: #585858;
+	color: #072440;
 	font-size: 18px;
 	font-weight: 400;
 	text-transform: capitalize;
@@ -11121,6 +11121,10 @@ blockquote p{
 
 
 /* The actual timeline (the vertical ruler) */
+.roadmap_color {
+    background-color: #072440;
+}
+
 .timeline {
   position: relative;
   max-width: 1200px;
@@ -11183,9 +11187,9 @@ blockquote p{
   width: 0;
   z-index: 2;
   right: 30px;
-  border: medium solid #F5F5F5;
+  border: medium solid #f5516c;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #F5F5F5;
+  border-color: transparent transparent transparent #f5516c;
 }
 
 .leftR:hover:before {
@@ -11196,26 +11200,13 @@ blockquote p{
   width: 0;
   z-index: 2;
   right: 30px;
-  border: medium solid #f5516c;
+  border: medium solid #ffffff;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #f5516c;
+  border-color: transparent transparent transparent #ffffff;
 }
 
 /* Add arrows to the right container (pointing left) */
 .rightR::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 2;
-  left: 30px;
-  border: medium solid #F5F5F5;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent #F5F5F5 transparent transparent;
-}
-
-.rightR:hover:before {
   content: " ";
   height: 0;
   position: absolute;
@@ -11228,6 +11219,19 @@ blockquote p{
   border-color: transparent #f5516c transparent transparent;
 }
 
+.rightR:hover:before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 2;
+  left: 30px;
+  border: medium solid #ffffff;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent #ffffff transparent transparent;
+}
+
 /* Fix the circle for containers on the right side */
 .rightR::after {
   left: -16px;
@@ -11237,7 +11241,7 @@ blockquote p{
 .contentR {
   padding: 20px 30px;
 	color: #010101;
-  background-color: #F5F5F5;
+  background-color: #f5516c;
   position: relative;
   border-radius: 6px;
   z-index: 2;
@@ -11246,7 +11250,7 @@ blockquote p{
 .contentR:hover {
   padding: 20px 30px;
 	color: #010101;
-  background-color: #f5516c;
+  background-color: #ffffff;
   position: relative;
   border-radius: 6px;
   z-index: 2;
