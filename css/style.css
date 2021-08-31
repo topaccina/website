@@ -149,6 +149,8 @@ Name: style.css
 
     24. Start Screen Image
 
+    25. Start Screen Text mobile
+
 ====================================================*/
 
 
@@ -11383,12 +11385,28 @@ blockquote p{
 @media screen and (max-width: 768px) {
 
   .img_mobile {
-    
+
   }
   .img_mobile_non {
     visibility: hidden;
   }
   .img_normal_non {
     visibility: visible;
+  }
+}
+
+/*======================
+
+	25. Start Screen Text mobile
+
+========================*/
+
+@media screen and (max-width: 768px) {
+
+  .text_mobile {
+    text-align: center;
+    margin-right: 0%;
+    margin-top: 150%;
+    margin-bottom: 10%;
   }
 }
