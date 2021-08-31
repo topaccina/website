@@ -4244,7 +4244,7 @@ blockquote p{
 @media screen and (max-width: 768px) {
   .btn-mobile {
     margin-right: 0%;
-    margin-bottom: 2%;
+    margin-bottom: 10%;
   }
 }
 
