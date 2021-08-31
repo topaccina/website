@@ -1173,6 +1173,13 @@ hr.ridge{
 
 }
 
+.pic_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
 
 
 /*======================
@@ -3159,6 +3166,11 @@ blockquote p{
 
     background-color: #f5f5f5
 
+}
+
+.bg-blue-app-design{
+
+  background-color: #072440
 }
 
 .bg-gray-light{
