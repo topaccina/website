@@ -11403,7 +11403,15 @@ blockquote p{
 
 @media screen and (max-width: 768px) {
 
-  .text_mobile {
+
+  .text_mobile_1 {
+    text-align: center;
+    margin-right: 0%;
+    margin-top: 50%;
+    margin-bottom: 20%;
+  }
+
+  .text_mobile_2 {
     text-align: center;
     margin-right: 0%;
     margin-top: 70%;
