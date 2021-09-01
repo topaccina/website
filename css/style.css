@@ -1407,6 +1407,12 @@ hr.ridge{
 
 }
 
+.nav:hover {
+  color: #f5516c;
+  text-decoration: underline;
+  text-decoration-color: #f5516c;
+}
+
 
 
 /*======================
@@ -3164,6 +3170,12 @@ blockquote p{
 /* Solid Backgrounds
 -------------------------*/
 
+
+.bg-app-blue{
+
+    background-color: #072440;
+
+}
 
 .bg-transparent{
 
@@ -11296,7 +11308,8 @@ blockquote p{
     margin-left: 50px;
   }
 
-  .leftR:hover:before {
+  /* Add arrows to the left container (pointing right) */
+  .leftR::before {
     content: " ";
     height: 0;
     position: absolute;
@@ -11309,7 +11322,21 @@ blockquote p{
     border-color: transparent transparent transparent #f5516c;
   }
 
-  .rightR:hover:before {
+  .leftR:hover:before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 2;
+    right: 30px;
+    border: medium solid #ffffff;
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent #ffffff;
+  }
+
+  /* Add arrows to the right container (pointing left) */
+  .rightR::before {
     content: " ";
     height: 0;
     position: absolute;
@@ -11322,6 +11349,19 @@ blockquote p{
     border-color: transparent #f5516c transparent transparent;
   }
 
+  .rightR:hover:before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 2;
+    left: 30px;
+    border: medium solid #ffffff;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent #ffffff transparent transparent;
+  }
+
   /* Fix the circle for containers on the right side */
   .rightR::after {
     left: -16px;
@@ -11331,7 +11371,7 @@ blockquote p{
   .contentR {
     padding: 20px 30px;
   	color: #010101;
-    background-color: #F5F5F5;
+    background-color: #f5516c;
     position: relative;
     border-radius: 6px;
     z-index: 2;
@@ -11340,7 +11380,7 @@ blockquote p{
   .contentR:hover {
     padding: 20px 30px;
   	color: #010101;
-    background-color: #f5516c;
+    background-color: #ffffff;
     position: relative;
     border-radius: 6px;
     z-index: 2;
