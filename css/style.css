@@ -10603,6 +10603,11 @@ blockquote p{
 /* Minimum Height
 -------------------------*/
 
+.height-app{
+
+    height: 900px;
+
+}
 
 .min-height-100px{
 
