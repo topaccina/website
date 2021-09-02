@@ -1222,6 +1222,12 @@ hr.ridge{
 
 }
 
+.navbar-lang>li>a:hover{
+	color: #072440;
+  text-decoration: underline;
+  text-decoration-color: #f5516c;
+}
+
 .uk-navbar-container:not(.uk-navbar-transparent){
 
 	background: #fff;
@@ -11484,13 +11490,13 @@ blockquote p{
 ========================*/
 
 @media screen and (max-width: 768px),
-       screen and (max-height: 800px) {
+       screen and (max-height: 700px) {
   .text_mobile_1 {
     text-align: center;
     margin-right: 0%;
     margin-top: 70%;
   }
-  .text_color {
+  .color_mobile_1 {
     color: #072440;
   }
 }
@@ -11500,7 +11506,7 @@ blockquote p{
     margin-right: 0%;
     margin-top: 50%;
   }
-  .text_color {
+  .color_mobile_2 {
     color: #072440;
   }
 }
