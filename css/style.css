@@ -11483,9 +11483,8 @@ blockquote p{
 
 ========================*/
 
-@media screen and (max-width: 768px) {
-
-
+@media screen and (max-width: 768px),
+       screen and (max-height: 800px) {
   .text_mobile_1 {
     text-align: center;
     margin-right: 0%;
@@ -11495,8 +11494,8 @@ blockquote p{
     color: #072440;
   }
 }
-@media screen and (max-width: 650px) {
-  .text_mobile_ {
+@media screen and (max-height: 650px) {
+  .text_mobile_2 {
     text-align: center;
     margin-right: 0%;
     margin-top: 50%;
