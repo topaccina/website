@@ -11486,7 +11486,7 @@ blockquote p{
 
 
 .img_normal {
-
+  z-index:0;
 }
 .img_normal_non {
   visibility: hidden;
@@ -11495,13 +11495,31 @@ blockquote p{
 @media screen and (max-width: 768px) {
 
   .img_mobile {
-
+    z-index:0;
   }
   .img_mobile_non {
     visibility: hidden;
   }
   .img_normal_non {
     visibility: visible;
+  }
+
+  .mobile_apple {
+    max-height: auto;
+    position:absolute;
+    max-width: 90px;
+    top: 21%;
+    right: 9%;
+    z-index:1;
+  }
+
+  .mobile_google {
+    max-height: auto;
+    position:absolute;
+    max-width: 100px;
+    top: 13%;
+    right: 8%;
+    z-index:1;
   }
 }
 
