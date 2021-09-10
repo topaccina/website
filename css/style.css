@@ -151,6 +151,8 @@ Name: style.css
 
     25. Start Screen Text mobile
 
+    26. Table adjustments
+
 ====================================================*/
 
 
@@ -11550,3 +11552,30 @@ blockquote p{
     color: #072440;
   }
 }
+
+/*======================
+
+    26. Table adjustments
+
+========================*/
+
+.table125 {
+    width: 125px;
+}
+.table350 {
+    width: 350px;
+}
+.tableText {
+  text-align: right;
+}
+
+@media screen and (max-width: 768px) {
+
+    .table1 {
+        width=125;
+    }
+    .table2 {
+        width=250;
+    }
+
+  }
