@@ -11559,23 +11559,36 @@ blockquote p{
 
 ========================*/
 
-.table125 {
-    width: 125px;
+.table {
+    width: 130px;
 }
-.table350 {
+.tableL {
     width: 350px;
 }
 .tableText {
   text-align: right;
+
 }
 
 @media screen and (max-width: 768px) {
 
-    .table1 {
-        width=125;
+    .table {
+        width: 100px;
     }
-    .table2 {
-        width=250;
+    .tableL {
+        width: 200px;
+    }
+    .fontTable {
+        font-size: 10px;
+    }
+    .fontFirm {
+        font-size: 18px;
+    }
+    .fontHook {
+        font-size: 22px;
+    }
+    .fontAGB {
+        font-size: 8px;
     }
 
   }
