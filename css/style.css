@@ -11567,7 +11567,12 @@ blockquote p{
 }
 .tableText {
   text-align: right;
-
+}
+.table_mobile_0{
+  visibility: visible;
+}
+.table_mobile_1{
+    display: none;
 }
 
 @media screen and (max-width: 768px) {
@@ -11589,6 +11594,12 @@ blockquote p{
     }
     .fontAGB {
         font-size: 8px;
+    }
+    .table_mobile_0{
+        display: none;
+    }
+    .table_mobile_1{
+        display: block;
     }
 
   }
