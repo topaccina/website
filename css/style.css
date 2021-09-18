@@ -11515,6 +11515,7 @@ blockquote p{
     display: inline-block;
     margin-top: -3%;
     margin-bottom: 15%;
+    margin-left: 5%;
     z-index: 1;
   }
 
@@ -11522,6 +11523,7 @@ blockquote p{
     display: inline-block;
     margin-top: -3%;
     margin-bottom: 15%;
+    margin-left: 5%;
     z-index: 1;
 
   }
@@ -11548,6 +11550,7 @@ blockquote p{
       display: inline-block;
       margin-top: -3%;
       margin-bottom: 15%;
+      margin-left: 5%;
       z-index: 1;
     }
 
@@ -11555,6 +11558,7 @@ blockquote p{
       display: inline-block;
       margin-top: -3%;
       margin-bottom: 15%;
+      margin-left: 5%;
       z-index: 1;
 
     }
