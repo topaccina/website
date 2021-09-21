@@ -11493,12 +11493,31 @@ blockquote p{
 .img_normal_non {
   display: none;
 }
+.mobile_view {
+  display: none;
+}
+.desktop_view {
+  display: block;
+}
 
 @media screen and (max-width: 768px) {
 
-  .mobile_background {
+  .mobile_view {
+    display: block;
 
-    margin-bottom: 250px;
+  }
+  .desktop_view {
+    display: none;
+  }
+
+  .mobile_start {
+    margin-top: 200%;
+
+
+  }
+  .mobile_buttons {
+    text-align: center;
+
   }
 
   .img_mobile {
@@ -11517,7 +11536,7 @@ blockquote p{
   }
 
   .mobile_apple {
-    display: inline-block;
+    text-align: center;
     margin-top: -3%;
     margin-bottom: 15%;
     margin-left: 5%;
@@ -11525,7 +11544,7 @@ blockquote p{
   }
 
   .mobile_google {
-    display: inline-block;
+    text-align: center;
     margin-top: -3%;
     margin-bottom: 15%;
     margin-left: 5%;
@@ -11538,6 +11557,8 @@ blockquote p{
 
     .img_mobile {
       z-index:0;
+      width: 300px;
+      height: auto;
     }
     .iphone {
 
@@ -11582,7 +11603,7 @@ blockquote p{
   .text_mobile_1 {
     text-align: center;
     margin-right: 0%;
-    margin-top: 75%;
+    margin-top: 175%;
 
   }
   .color_mobile_1 {
