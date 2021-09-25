@@ -153,6 +153,8 @@ Name: style.css
 
     26. Table adjustments
 
+    27. New Roadmap
+
 ====================================================*/
 
 
@@ -11691,3 +11693,219 @@ blockquote p{
     }
 
   }
+
+  /*======================
+
+      27. New Roadmap
+
+  ========================*/
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  .timelineR {
+  position: relative;
+  width: 80%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 15px 0;
+}
+
+.timelineR::after {
+  content: '';
+  position: absolute;
+  width: 2px;
+  background: #F5516C;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -1px;
+}
+
+.containerR {
+  padding: 15px 30px;
+  position: relative;
+  background: inherit;
+  width: 50%;
+}
+
+.containerR.left {
+  left: 0;
+}
+
+.containerR.right {
+  left: 50%;
+}
+
+.containerR::after {
+  content: '';
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: calc(50% - 8px);
+  right: -8px;
+  background: #F5516C;
+  border-radius: 16px;
+  z-index: 1;
+}
+
+.containerR.right::after {
+  left: -8px;
+}
+
+.containerR::before {
+  content: '';
+  position: absolute;
+  width: 50px;
+  height: 2px;
+  top: calc(50% - 1px);
+  right: 8px;
+  background: #F5516C;
+  z-index: 1;
+}
+
+.containerR.right::before {
+  left: 8px;
+}
+
+.containerR .date {
+  position: absolute;
+  display: inline-block;
+  top: calc(50% - 8px);
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  color: #F5516C;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  z-index: 1;
+}
+
+.containerR.left .date {
+  right: -75px;
+}
+
+.containerR.right .date {
+  left: -75px;
+}
+
+.containerR .icon {
+  position: absolute;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  padding: 9px 0;
+  top: calc(50% - 20px);
+  background: #ffffff;
+  border: 2px solid #F5516C;
+  border-radius: 40px;
+  text-align: center;
+  font-size: 18px;
+  color: #F5516C;
+  z-index: 1;
+}
+
+.containerR.left .icon {
+  right: 56px;
+}
+
+.containerR.right .icon {
+  left: 56px;
+}
+
+.containerR .content {
+  padding: 30px 90px 30px 30px;
+  background: #f5f5f5;
+  position: relative;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.containerR.right .content {
+  padding: 30px 30px 30px 90px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.containerR .content h2 {
+  margin: 0 0 10px 0;
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #072440;
+}
+
+.containerR .content p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 22px;
+  color: #072440;
+}
+
+.header_non {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .header_non {
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    color: #072440;
+    margin-left: 5%;
+  }
+  .header_non_mobile {
+    display: none;
+  }
+
+  .timelineR::after {
+    left: 50px;
+  }
+
+  .containerR .content p {
+    margin-left: 10%;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 22px;
+    color: #072440;
+  }
+
+  .containerR {
+    width: 100%;
+    padding-left: 65px;
+    padding-right: 0px;
+  }
+
+  .containerR.right {
+    left: 0%;
+  }
+
+  .containerR.left::after,
+  .containerR.right::after {
+    left: 42px;
+  }
+
+  .containerR.left::before,
+  .containerR.right::before {
+    left: 50px;
+    border-color: transparent #006E51 transparent transparent;
+  }
+
+  .containerR.left .date,
+  .containerR.right .date {
+    right: 87%;
+
+  }
+
+  .containerR.left .icon,
+  .containerR.right .icon {
+    right: auto;
+    left: 66px;
+  }
+
+  .containerR.left .content,
+  .containerR.right .content {
+    padding: 30px 30px 30px 50px;
+    border-radius: 500px 0 0 500px;
+  }
+}
