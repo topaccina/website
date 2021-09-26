@@ -11852,7 +11852,8 @@ blockquote p{
     font-size: 12px;
     font-weight: bold;
     color: #072440;
-    margin-left: 5%;
+    margin-left: 50%;
+    text-align: right;
   }
   .header_non_mobile {
     display: none;
@@ -11863,7 +11864,7 @@ blockquote p{
   }
 
   .containerR .content p {
-    margin-left: 10%;
+    margin-left: 35%;
     font-size: 12px;
     font-weight: normal;
     line-height: 22px;
@@ -11891,10 +11892,12 @@ blockquote p{
     border-color: transparent #006E51 transparent transparent;
   }
 
-  .containerR.left .date,
-  .containerR.right .date {
+  .containerR.left .date {
     right: 87%;
+  }
 
+  .containerR.right .date {
+    left: -7%;
   }
 
   .containerR.left .icon,
@@ -11907,5 +11910,9 @@ blockquote p{
   .containerR.right .content {
     padding: 30px 30px 30px 50px;
     border-radius: 500px 0 0 500px;
+  }
+
+  .headerR {
+    text-align: right;
   }
 }
