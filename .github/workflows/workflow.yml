@@ -1,0 +1,20 @@
+name: Deployment Workflow
+on:
+  push:
+    branches:
+      - master
+jobs:
+  webDeployment:
+    runs-on: ubuntu-latest
+    steps:
+    - name: getLatestCode
+      uses: actions/checkout@v2
+
+    - name: syncFiles
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      with:
+        server: ${{ secrets.HOST }}
+        username: ${{ secrets.USER }}
+        password: ${{ secrets.PASSWORD }}
+        server-dir: dfx.swiss/
+
