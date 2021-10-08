@@ -11516,6 +11516,11 @@ blockquote p{
 
 @media screen and (max-width: 768px) {
 
+  .start_view_mobile {
+    height: 650px;
+  }
+
+
   .app_btngoogle {
     margin-left: 0%;
   }
@@ -11526,7 +11531,6 @@ blockquote p{
 
   .mobile_view {
     display: block;
-
   }
   .desktop_view {
     display: none;
@@ -11574,6 +11578,10 @@ blockquote p{
 }
 
 @media screen and (max-width: 850px) {
+
+    .start_view_mobile {
+
+    }
 
     .img_mobile {
       z-index:0;
