@@ -9,7 +9,7 @@
 //}
 
 var getFirstBrowserLanguage = function () {
-    var nav = window.navigator,
+    var nav = window.navigator || navigator.userLanguage,
     browserLanguagePropertyKeys = ['language', 'browserLanguage', 'systemLanguage', 'userLanguage'],
     i,
     language;
