@@ -60,7 +60,29 @@
 		  gtag('config', 'G-HZ8BT8C5MB');
 		</script>
 
-			<script type="text/javascript" src="js/detectLang.js"></script>
+			<!-- <script type="text/javascript" src="js/detectLang.js"></script> -->
+			<script>
+					var acceptLanguage = 'Accept-Language: de;q=1.0,en;q=0.8,es;q=0.6,fr;q=0.4';
+					let oneFct = false;
+
+					var languages = acceptLanguage.split(':')[1].match(/[a-zA-Z\-]{2,10}/g) || [];
+					//console.log(languages); // ['en', 'es', 'fr']
+
+					function callWebsite() {
+						if (languages.includes('de')) {
+								console.log(languages); // ['en', 'es', 'fr']
+								return;
+						} else {
+						   window.location.href = "en.html";
+						}
+						oneFct = true;
+					}
+					function oneTime() {
+						if (!oneFct) callWebsite();
+					}
+					oneTime();
+					oneTime();
+			</script>
 
 
 	</head>
@@ -750,7 +772,7 @@
 
 						<div data-uk-lightbox="animation: fade">
 
-							<iframe class="video_normal video_mobile" src="https://youtube.com/embed/60IV0iw4wWM?&autoplay=1" title="DFX" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe class="video_normal video_mobile" src="https://youtube.com/embed/60IV0iw4wWM?&autoplay=0" title="DFX" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 						</div>
 
