@@ -7,38 +7,14 @@
 //} else {
   //  window.location.href = "en.html";
 //}
+var acceptLanguage = 'Accept-Language: en;q=0.8,es;q=0.6,fr;q=0.4';
 
-var getFirstBrowserLanguage = function () {
-    var nav = window.navigator || navigator.userLanguage,
-    browserLanguagePropertyKeys = ['language', 'browserLanguage', 'systemLanguage', 'userLanguage'],
-    i,
-    language;
+var languages = acceptLanguage.split(':')[1].match(/[a-zA-Z\-]{2,10}/g) || [];
+console.log(languages); // ['en', 'es', 'fr']
 
-    // support for HTML 5.1 "navigator.languages"
-    if (Array.isArray(nav.languages)) {
-      for (i = 0; i < nav.languages.length; i++) {
-        language = nav.languages[i];
-        if (language && language.length) {
-          return language;
-        }
-      }
-    }
 
-    // support for other well known properties in browsers
-    for (i = 0; i < browserLanguagePropertyKeys.length; i++) {
-      language = nav[browserLanguagePropertyKeys[i]];
-      if (language && language.length) {
-        return language;
-      }
-    }
-
-    return null;
-  };
-
-console.log(getFirstBrowserLanguage());
-
-if (getFirstBrowserLanguage() === 'de') {
-    window.location.href = "/";
-} else {
-    window.location.href = "en.html";
-}
+//if (getFirstBrowserLanguage() === 'de') {
+    //window.location.href = "/";
+//} else {
+    //window.location.href = "en.html";
+//}
