@@ -183,6 +183,25 @@ Name: style.css
 /* Essentials
 -------------------------*/
 
+@media screen and (max-width: 768px) {
+  .pictures_mobile {
+    display: block;
+  }
+}
+@media screen and (min-width: 769px) {
+  .pictures_mobile_none {
+    display: none;
+  }
+}
+
+.pictures_desktop {
+  display: block;
+}
+@media screen and (max-width: 768px) {
+  .pictures_desktop_none {
+    display: none;
+  }
+}
 
 
 *{
