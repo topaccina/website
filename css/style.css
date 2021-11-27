@@ -4319,6 +4319,12 @@ blockquote p{
     margin-bottom: 0%;
 }
 
+@media screen and (max-width: 1024px) {
+  .btn-non {
+    display: none;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .btn-mobile {
     margin-right: 0%;
@@ -4330,7 +4336,7 @@ blockquote p{
 
     font-size: 16px;
     line-height: 25px;
-	   padding: 13px 45px 13px 49px
+	  padding: 13px 45px 13px 49px
 
 }
 
@@ -11431,6 +11437,12 @@ blockquote p{
 
 ========================*/
 
+.video_position {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
 .video_normal {
   width: 640px ;
   height: 360px ;
@@ -11533,10 +11545,10 @@ blockquote p{
   display: block;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
 
   .start_view_mobile {
-    height: 650px;
+    height: 1050px;
   }
 
 
@@ -11645,7 +11657,7 @@ blockquote p{
 
 ========================*/
 
-@media screen and (max-width: 768px),
+@media screen and (max-width: 1024px),
        screen and (max-height: 700px) {
   .text_mobile_1 {
     text-align: center;
@@ -11662,9 +11674,6 @@ blockquote p{
     text-align: center;
     margin-right: 0%;
     margin-top: 50%;
-  }
-  .color_mobile_2 {
-    color: #072440;
   }
 }
 
