@@ -5,7 +5,7 @@
 //if (userLang === 'de') {
 //  window.location.href = "/";
 //} else {
-  //  window.location.href = "en.html";
+  //  window.location.href = "en";
 //}
 var acceptLanguage = 'Accept-Language: en;q=0.8,es;q=0.6,fr;q=0.4';
 
@@ -16,5 +16,5 @@ console.log(languages); // ['en', 'es', 'fr']
 //if (getFirstBrowserLanguage() === 'de') {
     //window.location.href = "/";
 //} else {
-    //window.location.href = "en.html";
+    //window.location.href = "en";
 //}
