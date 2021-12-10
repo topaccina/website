@@ -11897,6 +11897,10 @@ blockquote p{
     left: 50px;
   }
 
+  .right {
+    margin-left: 10px;
+  }
+
   .containerR .content p {
     margin-left: 35%;
     font-size: 12px;
