@@ -155,6 +155,8 @@ Name: style.css
 
     27. New Roadmap
 
+    28. Buttons
+
 ====================================================*/
 
 
@@ -11991,4 +11993,18 @@ blockquote p{
     margin-left: 0px;
     margin-top: 0px;
   }
+}
+
+/*======================
+
+	28. Buttons
+
+========================*/
+
+.hide {
+  display: none;
+}
+
+.myBTN:hover + .hide {
+  display: block;
 }
