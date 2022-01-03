@@ -11544,7 +11544,11 @@ blockquote p{
   display: none;
 }
 .desktop_view {
-  display: block;
+    display: block;
+}
+
+.svg_size {
+    width: 100%;
 }
 
 @media screen and (max-width: 1024px) {
