@@ -11740,6 +11740,13 @@ blockquote p{
 
   ========================*/
 
+  .roadmap_desktop {
+    display: block;
+  }
+  .roadmap_mobile {
+    display: none;
+  }
+
   *,
   *::before,
   *::after {
@@ -11911,6 +11918,14 @@ blockquote p{
 }
 
 @media (max-width: 768px) {
+
+  .roadmap_desktop {
+    display: none;
+  }
+  .roadmap_mobile {
+    display: block;
+  }
+
   .header_non {
     display: block;
     font-size: 12px;
@@ -11971,6 +11986,10 @@ blockquote p{
   .containerR.left .icon,
   .containerR.right .icon {
     right: auto;
+    left: 66px;
+  }
+
+  .containerR.left .icon2 {
     left: 66px;
   }
 
