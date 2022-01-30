@@ -159,6 +159,8 @@ Name: style.css
 
     29. Image overlay
 
+    30. iFrame Countdown
+
 ====================================================*/
 
 
@@ -12091,4 +12093,37 @@ blockquote p{
 
 .fa-user:hover {
   color: #eee;
+}
+
+
+/*======================
+
+    30. iFrame Countdown
+
+========================*/
+
+.mobile_iFrame {
+  display: none;
+  background-color:#F5516C;
+  text-align: center;
+}
+
+.desktop_iFrame {
+  display: block;
+  background-color:#F5516C;
+  text-align: center;
+}
+
+
+@media (max-width: 768px) {
+  .mobile_iFrame {
+    display: block;
+    background-color:#F5516C;
+    text-align: center;
+  }
+  .desktop_iFrame {
+    display: none;
+    background-color:#F5516C;
+    text-align: center;
+  }
 }
