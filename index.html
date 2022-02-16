@@ -66,33 +66,6 @@
 		  gtag('config', 'UA-220395347-1');
 		</script>
 
-			<!-- <script type="text/javascript" src="js/detectLang.js"></script> -->
-			<script>
-					var acceptLanguage = 'Accept-Language: de;q=1.0,en;q=0.8,es;q=0.6,fr;q=0.4';
-					let oneFct = false;
-
-					var languages = acceptLanguage.split(':')[1].match(/[a-zA-Z\-]{2,10}/g) || [];
-					//console.log(languages); // ['en', 'es', 'fr']
-
-					function callWebsite() {
-						if (languages.includes('de')) {
-								console.log(languages); // ['en', 'es', 'fr']
-								return;
-						} else {
-						   window.location.href = "/en";
-						}
-						oneFct = true;
-					}
-					function oneTime() {
-						if (!oneFct) callWebsite();
-					}
-					oneTime();
-					oneTime();
-			</script>
-
-
-
-
 	</head>
 	<!-- End Head -->
 
