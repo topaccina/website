@@ -12102,28 +12102,52 @@ blockquote p{
 
 ========================*/
 
-.mobile_iFrame {
-  display: none;
-  background-color:#F5516C;
-  text-align: center;
+
+.trustpilot {
+  max-width: 30px;
+  height: auto;
+  position: fixed;
+  margin-top: -51%;
+  margin-left: 10%;
+  z-index: 2;
 }
 
-.desktop_iFrame {
-  display: block;
-  background-color:#F5516C;
-  text-align: center;
+.trustpilot_text {
+  max-width: 30px;
+  height: auto;
+  position: fixed;
+  margin-top: -50.85%;
+  margin-left: 12%;
+  color: #00b67a;
+  z-index: 2;
+}
+
+.trustpilot_textcolor {
+  color: #00b67a;
 }
 
 
-@media (max-width: 768px) {
-  .mobile_iFrame {
-    display: block;
-    background-color:#F5516C;
-    text-align: center;
+@media (max-width: 1500px) {
+  .trustpilot {
+    max-width: 30px;
+    height: auto;
+    position: fixed;
+    margin-top: -51%;
+    margin-left: 10%;
+    z-index: 2;
   }
-  .desktop_iFrame {
-    display: none;
-    background-color:#F5516C;
-    text-align: center;
+
+  .trustpilot_text {
+    max-width: 30px;
+    height: auto;
+    position: fixed;
+    margin-top: -50.85%;
+    margin-left: 13%;
+    color: #00b67a;
+    z-index: 2;
+  }
+
+  .trustpilot_textcolor {
+    color: #00b67a;
   }
 }
