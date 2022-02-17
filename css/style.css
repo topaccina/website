@@ -12151,3 +12151,21 @@ blockquote p{
     color: #00b67a;
   }
 }
+
+
+.trustpilot_mobile {
+  max-width: 20px;
+  height: auto;
+  display: none;
+  z-index: 2;
+}
+
+
+@media (max-width: 1024px) {
+  .trustpilot_mobile {
+    max-width: 30px;
+    height: auto;
+    display: block;
+    z-index: 2;
+  }
+}
