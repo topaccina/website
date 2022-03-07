@@ -1,5 +1,7 @@
 Redirect 301 /app https://api.dfx.swiss/app
 
+ErrorDocument 404 /404.html
+
 # Enable rewrite engine and route requests to framework
 RewriteEngine On
 
