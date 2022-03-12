@@ -1,21 +1,11 @@
 Redirect 301 /app https://api.dfx.swiss/app
 
 ErrorDocument 404 /404.html
+DirectoryIndex index.html index.htm
 
-# Enable rewrite engine and route requests to framework
+<IfModule mod_rewrite.c>
 RewriteEngine On
-
-# Some servers require you to specify the `RewriteBase` directive
-# In such cases, it should be the path (relative to the document root)
-# containing this .htaccess file
-#
-# RewriteBase /
-
-# RewriteRule ^(app|tmp)\/|\.ini$ - [R=404]
-
-RewriteCond %{REQUEST_FILENAME} !-l
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ $1.html [L,QSA]
-# RewriteRule .* index.php [L,QSA]
-# RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization},L]
+#RewriteBase /
+RewriteCond %{THE_REQUEST} \s[^?]*//
+RewriteRule ^.*$ /$0 [R=301,L,NE]
+</IfModule>

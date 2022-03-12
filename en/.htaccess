@@ -1,9 +1,0 @@
-Redirect 301 /app https://api.dfx.swiss/app
-
-ErrorDocument 404 /404.html
-DirectoryIndex index.html index.htm
-
-# Enable rewrite engine and route requests to framework
-RewriteEngine On
-RewriteCond %{REQUEST_URI} ^(.*)/{2,}(.*)$
-RewriteRule (.*) %1/%2 [R=301,L]
