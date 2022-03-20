@@ -9,82 +9,82 @@
 
 <url>
   <loc>https://dfx.swiss/</loc>
-  <lastmod>2022-02-19T15:04:47+00:00</lastmod>
+  <lastmod>2022-03-19T07:50:18+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://dfx.swiss/de/b2b/</loc>
-  <lastmod>2022-02-19T15:03:00+00:00</lastmod>
+  <loc>https://dfx.swiss/de/ueber/</loc>
+  <lastmod>2022-03-19T07:48:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dfx.swiss/de/ueber/</loc>
-  <lastmod>2022-02-19T15:03:03+00:00</lastmod>
+  <loc>https://dfx.swiss/de/hr/</loc>
+  <lastmod>2022-03-19T07:48:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dfx.swiss/de/b2b/</loc>
+  <lastmod>2022-03-19T07:48:16+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dfx.swiss/en/</loc>
-  <lastmod>2022-02-19T15:03:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dfx.swiss/de/vision/</loc>
-  <lastmod>2022-02-19T15:04:43+00:00</lastmod>
+  <lastmod>2022-03-19T07:48:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dfx.swiss/de/agb/</loc>
-  <lastmod>2022-02-19T15:03:00+00:00</lastmod>
+  <lastmod>2022-03-19T07:48:15+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dfx.swiss/de/datenschutz/</loc>
-  <lastmod>2022-02-19T15:03:01+00:00</lastmod>
+  <lastmod>2022-03-19T07:48:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dfx.swiss/de/impressum/</loc>
-  <lastmod>2022-02-19T15:03:02+00:00</lastmod>
+  <lastmod>2022-03-19T07:48:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dfx.swiss/de/mittelherkunft/</loc>
-  <lastmod>2022-02-19T15:03:03+00:00</lastmod>
+  <lastmod>2022-03-19T07:48:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dfx.swiss/en/b2b/</loc>
-  <lastmod>2022-02-19T15:03:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>https://dfx.swiss/en/about/</loc>
-  <lastmod>2022-02-19T15:03:08+00:00</lastmod>
+  <lastmod>2022-03-19T07:48:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://dfx.swiss/en/vision/</loc>
-  <lastmod>2022-02-19T15:03:09+00:00</lastmod>
+  <loc>https://dfx.swiss/en/hr/</loc>
+  <lastmod>2022-03-19T07:48:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dfx.swiss/en/b2b/</loc>
+  <lastmod>2022-03-19T07:48:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dfx.swiss/en/terms/</loc>
-  <lastmod>2022-02-19T15:03:09+00:00</lastmod>
+  <lastmod>2022-03-19T07:48:25+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dfx.swiss/en/privacy/</loc>
-  <lastmod>2022-02-19T15:03:06+00:00</lastmod>
+  <lastmod>2022-03-19T07:48:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dfx.swiss/en/imprint/</loc>
-  <lastmod>2022-02-19T15:03:05+00:00</lastmod>
+  <lastmod>2022-03-19T07:48:22+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://dfx.swiss/en/proofoffunds/</loc>
-  <lastmod>2022-02-19T15:03:07+00:00</lastmod>
+  <lastmod>2022-03-19T07:48:25+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
