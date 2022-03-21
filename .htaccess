@@ -11,4 +11,5 @@ RewriteRule ^(.+)/app$ https://api.dfx.swiss/app?orig=$1 [R=301,NC,L,QSA]
 #RewriteBase /
 RewriteCond %{THE_REQUEST} \s[^?]*//
 RewriteRule ^.*$ /$0 [R=301,L,NE]
+RewriteRule ^/?vision(/.*)$ /about$1 [L,R=301]
 </IfModule>
