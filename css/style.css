@@ -12123,7 +12123,7 @@ blockquote p{
 
 /*======================
 
-    30. iFrame Countdown
+    30. Trustpilot
 
 ========================*/
 
@@ -12193,4 +12193,28 @@ blockquote p{
     display: block;
     z-index: 2;
   }
+}
+
+
+/*======================
+
+    30. Banner EU & FATF
+
+========================*/
+
+
+.desktop_banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #072440;
+  font-size: 28px;
+  font-family: 'Heebo', sans-serif;
+}
+
+.desktop_banner_text {
+  color: #ffffff;
+  font-family: 'Heebo', sans-serif;
+  margin-left: 15px;
+  margin-top: 27px;
 }
